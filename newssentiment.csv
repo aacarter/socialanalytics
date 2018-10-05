@@ -1,0 +1,557 @@
+Account,Text,Date,Compound,Positive,Neutral,Negative,Tweets Ago
+BBC Breaking News,US charges seven Russian military agents linked to global cyber hack of doping and other agencies https://t.co/Kki9xU6EUd,Thu Oct 04 13:44:07 +0000 2018,-0.2732,0.0,0.116,0.884,1
+BBC Breaking News,"""The GRU has interfered in free elections and pursued a hostile campaign of cyber attacks"" - Britain's ambassador t… https://t.co/K1aQ9MRhVS",Thu Oct 04 13:23:18 +0000 2018,-0.296,0.139,0.231,0.63,2
+BBC Breaking News,Dutch security services expelled four Russians in April over plot targeting chemical weapons watchdog - officials https://t.co/FPjph8eXWm,Thu Oct 04 10:08:57 +0000 2018,-0.3612,0.118,0.241,0.64,3
+BBC Breaking News,"Death of police officer Keith Palmer during Westminster terror attack could ""possibly"" have been prevented if armed… https://t.co/TN5Bgp4lsQ",Wed Oct 03 15:59:12 +0000 2018,-0.8834,0.043,0.408,0.549,4
+BBC Breaking News,"All five victims of last year's Westminster terror attack were ""unlawfully killed"", coroner says https://t.co/S035mfvVY7",Wed Oct 03 15:38:53 +0000 2018,-0.8316,0.0,0.423,0.577,5
+BBC Breaking News,Pret A Manger to fully label ingredients on its freshly made products after girl's death following allergic reaction https://t.co/W7irnjPhfs,Wed Oct 03 08:29:50 +0000 2018,-0.7269,0.0,0.276,0.724,6
+BBC Breaking News,Zoe Ball is to take over as presenter of BBC Radio 2 Breakfast Show replacing Chris Evans https://t.co/bktiByCfki,Wed Oct 03 07:17:36 +0000 2018,0.0,0.0,0.0,1.0,7
+BBC Breaking News,"Heterosexual couples in England &amp; Wales to be given right to enter into civil partnerships rather than marriage, Th… https://t.co/EAMejUIpvn",Tue Oct 02 10:37:30 +0000 2018,0.0,0.0,0.0,1.0,8
+BBC Breaking News,"Number of people killed in Indonesia quake and tsunami rises to more than 1,200, officials say https://t.co/TZucu47QUz",Tue Oct 02 06:55:57 +0000 2018,-0.6369,0.062,0.216,0.721,9
+BBC Breaking News,"@pakhead Atmosphere transforms from anger to jubilation as police back down and let crowds into shops, @pakhead rep… https://t.co/uUz5mowIWz",Tue Oct 02 06:25:58 +0000 2018,-0.5719,0.0,0.171,0.829,10
+BBC Breaking News,BBC's @pakhead sees police fire shots and tear gas as desperation grows in Indonesia's disaster-stricken #Palu https://t.co/TsM9u1sKOm,Tue Oct 02 06:13:53 +0000 2018,-0.6597,0.0,0.265,0.735,11
+BBC Breaking News,"French singer and songwriter Charles Aznavour has died aged 94 after a career lasting more than 80 years, a spokesm… https://t.co/rPDyux6inR",Mon Oct 01 12:16:14 +0000 2018,-0.5574,0.0,0.167,0.833,12
+BBC Breaking News,"RT @5liveSport: That's it!
+
+Mickelson hits the water and concedes to Francesco Molinari!
+
+#TeamEurope have won the #RyderCup !!
+
+🎙️📻https:/…",Sun Sep 30 15:02:11 +0000 2018,0.7067,0.204,0.0,0.796,13
+BBC Breaking News,At least 832 people now known to have died in Indonesian earthquake and tsunami - emergency officials https://t.co/uBzqMfoKLJ,Sun Sep 30 06:52:14 +0000 2018,-0.7351,0.0,0.292,0.708,14
+BBC Breaking News,Senior Tory MPs have had their personal details exposed due to security flaw in Conservative conference app https://t.co/AF063jzOxD,Sat Sep 29 14:18:39 +0000 2018,0.2732,0.122,0.066,0.812,15
+BBC Breaking News,At least 384 people now known to have died after an earthquake and tsunami hit a coastal Indonesian city https://t.co/IprVdGRuCg,Sat Sep 29 07:33:05 +0000 2018,-0.5574,0.0,0.167,0.833,16
+BBC Breaking News,US President Donald Trump orders FBI to reopen background inquiry into Supreme Court nominee Brett Kavanaugh over s… https://t.co/ZgqnxO5Gox,Fri Sep 28 21:09:09 +0000 2018,0.5574,0.167,0.0,0.833,17
+BBC Breaking News,Brett Kavanaugh's nomination to US Supreme Court backed by Senate committee as discussions continue over FBI inquiry https://t.co/KKe4X2DRQA,Fri Sep 28 18:04:12 +0000 2018,0.5719,0.227,0.0,0.773,18
+BBC Breaking News,"Facebook says the security flaw has been fixed and it has informed police. In a statement it says ""we have yet to d… https://t.co/naGAXzvkxG",Fri Sep 28 17:44:43 +0000 2018,0.34,0.098,0.0,0.902,19
+BBC Breaking News,"50 million Facebook accounts compromised, the social network says - in all, 90m accounts will have to take action https://t.co/GL3MyqXgHF",Fri Sep 28 17:08:56 +0000 2018,0.0,0.0,0.0,1.0,20
+BBC Breaking News,US charges seven Russian military agents linked to global cyber hack of doping and other agencies https://t.co/Kki9xU6EUd,Thu Oct 04 13:44:07 +0000 2018,-0.2732,0.0,0.116,0.884,21
+BBC Breaking News,"""The GRU has interfered in free elections and pursued a hostile campaign of cyber attacks"" - Britain's ambassador t… https://t.co/K1aQ9MRhVS",Thu Oct 04 13:23:18 +0000 2018,-0.296,0.139,0.231,0.63,22
+BBC Breaking News,Dutch security services expelled four Russians in April over plot targeting chemical weapons watchdog - officials https://t.co/FPjph8eXWm,Thu Oct 04 10:08:57 +0000 2018,-0.3612,0.118,0.241,0.64,23
+BBC Breaking News,"Death of police officer Keith Palmer during Westminster terror attack could ""possibly"" have been prevented if armed… https://t.co/TN5Bgp4lsQ",Wed Oct 03 15:59:12 +0000 2018,-0.8834,0.043,0.408,0.549,24
+BBC Breaking News,"All five victims of last year's Westminster terror attack were ""unlawfully killed"", coroner says https://t.co/S035mfvVY7",Wed Oct 03 15:38:53 +0000 2018,-0.8316,0.0,0.423,0.577,25
+BBC Breaking News,Pret A Manger to fully label ingredients on its freshly made products after girl's death following allergic reaction https://t.co/W7irnjPhfs,Wed Oct 03 08:29:50 +0000 2018,-0.7269,0.0,0.276,0.724,26
+BBC Breaking News,Zoe Ball is to take over as presenter of BBC Radio 2 Breakfast Show replacing Chris Evans https://t.co/bktiByCfki,Wed Oct 03 07:17:36 +0000 2018,0.0,0.0,0.0,1.0,27
+BBC Breaking News,"Heterosexual couples in England &amp; Wales to be given right to enter into civil partnerships rather than marriage, Th… https://t.co/EAMejUIpvn",Tue Oct 02 10:37:30 +0000 2018,0.0,0.0,0.0,1.0,28
+BBC Breaking News,"Number of people killed in Indonesia quake and tsunami rises to more than 1,200, officials say https://t.co/TZucu47QUz",Tue Oct 02 06:55:57 +0000 2018,-0.6369,0.062,0.216,0.721,29
+BBC Breaking News,"@pakhead Atmosphere transforms from anger to jubilation as police back down and let crowds into shops, @pakhead rep… https://t.co/uUz5mowIWz",Tue Oct 02 06:25:58 +0000 2018,-0.5719,0.0,0.171,0.829,30
+BBC Breaking News,BBC's @pakhead sees police fire shots and tear gas as desperation grows in Indonesia's disaster-stricken #Palu https://t.co/TsM9u1sKOm,Tue Oct 02 06:13:53 +0000 2018,-0.6597,0.0,0.265,0.735,31
+BBC Breaking News,"French singer and songwriter Charles Aznavour has died aged 94 after a career lasting more than 80 years, a spokesm… https://t.co/rPDyux6inR",Mon Oct 01 12:16:14 +0000 2018,-0.5574,0.0,0.167,0.833,32
+BBC Breaking News,"RT @5liveSport: That's it!
+
+Mickelson hits the water and concedes to Francesco Molinari!
+
+#TeamEurope have won the #RyderCup !!
+
+🎙️📻https:/…",Sun Sep 30 15:02:11 +0000 2018,0.7067,0.204,0.0,0.796,33
+BBC Breaking News,At least 832 people now known to have died in Indonesian earthquake and tsunami - emergency officials https://t.co/uBzqMfoKLJ,Sun Sep 30 06:52:14 +0000 2018,-0.7351,0.0,0.292,0.708,34
+BBC Breaking News,Senior Tory MPs have had their personal details exposed due to security flaw in Conservative conference app https://t.co/AF063jzOxD,Sat Sep 29 14:18:39 +0000 2018,0.2732,0.122,0.066,0.812,35
+BBC Breaking News,At least 384 people now known to have died after an earthquake and tsunami hit a coastal Indonesian city https://t.co/IprVdGRuCg,Sat Sep 29 07:33:05 +0000 2018,-0.5574,0.0,0.167,0.833,36
+BBC Breaking News,US President Donald Trump orders FBI to reopen background inquiry into Supreme Court nominee Brett Kavanaugh over s… https://t.co/ZgqnxO5Gox,Fri Sep 28 21:09:09 +0000 2018,0.5574,0.167,0.0,0.833,37
+BBC Breaking News,Brett Kavanaugh's nomination to US Supreme Court backed by Senate committee as discussions continue over FBI inquiry https://t.co/KKe4X2DRQA,Fri Sep 28 18:04:12 +0000 2018,0.5719,0.227,0.0,0.773,38
+BBC Breaking News,"Facebook says the security flaw has been fixed and it has informed police. In a statement it says ""we have yet to d… https://t.co/naGAXzvkxG",Fri Sep 28 17:44:43 +0000 2018,0.34,0.098,0.0,0.902,39
+BBC Breaking News,"50 million Facebook accounts compromised, the social network says - in all, 90m accounts will have to take action https://t.co/GL3MyqXgHF",Fri Sep 28 17:08:56 +0000 2018,0.0,0.0,0.0,1.0,40
+BBC Breaking News,"Officers searching for missing Worcester student Thomas Jones, 18, find a body in the River Severn https://t.co/Zj8Ug65gr0",Fri Sep 28 15:55:27 +0000 2018,-0.296,0.0,0.128,0.872,41
+BBC Breaking News,Danish police seal off bridges and ferries to Sweden and Germany in a major operation https://t.co/uvVH4ANjHm,Fri Sep 28 12:54:18 +0000 2018,0.0,0.0,0.0,1.0,42
+BBC Breaking News,"Pret a Manger’s allergy labelling was inadequate, says coroner in case of girl who died after eating a baguette https://t.co/93qasWccnJ",Fri Sep 28 09:46:20 +0000 2018,-0.743,0.0,0.283,0.717,43
+BBC Breaking News,Tesla chief executive Elon Musk accused of fraud by the US Securities and Exchange Commission https://t.co/Qf8jtsrv8G,Thu Sep 27 20:29:32 +0000 2018,-0.5859,0.104,0.283,0.613,44
+BBC Breaking News,"""My family and my name have been totally and permanently destroyed"" - US Supreme Court nominee Brett Kavanaugh reac… https://t.co/bH7othXr2Q",Thu Sep 27 19:18:04 +0000 2018,0.0352,0.15,0.144,0.706,45
+BBC Breaking News,"RT @BBCSport: The proposed £600m sale of Wembley Stadium has been unanimously backed by the Football Association's board.
+
+https://t.co/6sX…",Thu Sep 27 15:14:06 +0000 2018,0.0258,0.058,0.0,0.942,46
+BBC Breaking News,"""I am here today not because I want to be. I am terrified. I am here because I believe it is my civic duty to tell… https://t.co/1mIY5lYWdC",Thu Sep 27 14:40:05 +0000 2018,-0.6395,0.0,0.199,0.801,47
+BBC Breaking News,The real identity of one of the Salisbury Novichock poisoning suspects is revealed by an investigative website https://t.co/5ySt719D3g,Wed Sep 26 16:32:23 +0000 2018,-0.7351,0.0,0.279,0.721,48
+BBC Breaking News,"China has been attempting to interfere in the mid-term elections in November, President Trump tells UN https://t.co/FkYVJlPMaW",Wed Sep 26 14:55:12 +0000 2018,0.0,0.0,0.0,1.0,49
+BBC Breaking News,"Suspects in the 1974 Birmingham pub bombings will not be named at fresh inquests, the appeal court rules https://t.co/RqzM3HkGfz",Wed Sep 26 13:08:57 +0000 2018,-0.0258,0.106,0.111,0.783,50
+BBC Breaking News,"""Sexually violent predator"" Bill Cosby given three to 10-year jail term for drugging and molesting a woman in 2004 https://t.co/vNPK6YmTfA",Tue Sep 25 18:13:58 +0000 2018,-0.8271,0.0,0.312,0.688,51
+BBC Breaking News,"""Stronger, safer, richer"": Donald Trump tells UN he has done more in under two years than almost any prior president https://t.co/coDul33Afk",Tue Sep 25 14:50:14 +0000 2018,0.4215,0.123,0.0,0.877,52
+BBC Breaking News,"Amid concerns about his job, Trump-Russia probe chief Rod Rosenstein has ""extended conversation"" with President Tru… https://t.co/IAXR7JSl1Y",Mon Sep 24 17:24:24 +0000 2018,0.0,0.0,0.0,1.0,53
+BBC Breaking News,"Rod Rosenstein, the man overseeing Trump-Russia probe, en route to White House amid reports he will offer to quit https://t.co/3kxi0m3UId",Mon Sep 24 15:11:09 +0000 2018,0.0,0.0,0.0,1.0,54
+BBC Breaking News,"RT @BBCSport: Anthony Joshua wins! 🥊
+
+He’s won by knockout in round 7!
+
+AJ retains his heavyweight titles. 
+
+Live reaction https://t.co/e2u…",Sat Sep 22 21:46:29 +0000 2018,0.8395,0.285,0.0,0.715,55
+BBC Breaking News,"Labour should be prepared to back demands for a new Brexit referendum, deputy leader Tom Watson has said. https://t.co/x9EOYEtffe",Sat Sep 22 20:09:28 +0000 2018,0.2263,0.101,0.0,0.899,56
+BBC Breaking News,The woman accusing Supreme Court nominee Brett Kavanaugh of sexual assault agrees to testify against him next week https://t.co/W5RTtIVAwN,Sat Sep 22 18:48:42 +0000 2018,-0.0258,0.208,0.212,0.579,57
+BBC Breaking News,US cable giant wins rare blind auction process set by the UK's Takeover Panel. https://t.co/Lc0sggm0FL,Sat Sep 22 18:23:52 +0000 2018,0.25,0.191,0.139,0.67,58
+BBC Breaking News,Chas Hodges - one half of the musical duo Chas &amp; Dave - has died https://t.co/sLok83mgNk,Sat Sep 22 12:20:02 +0000 2018,-0.5574,0.0,0.217,0.783,59
+BBC Breaking News,"Man rescued from air pocket in sunken Lake Victoria ferry, two days after it capsized with loss of around 170 lives https://t.co/l5rG7Bsa58",Sat Sep 22 11:10:39 +0000 2018,0.128,0.112,0.092,0.797,60
+BBC Breaking News,"Several people killed in gun attack during Iranian military parade in south-west city of Ahvaz, state media says https://t.co/OweQk7y5Qp",Sat Sep 22 06:19:09 +0000 2018,-0.875,0.0,0.385,0.615,61
+BBC Breaking News,"""No-one wants a good deal more than me, but the EU should be clear I will not overturn the result of the referendum… https://t.co/xGM9JxrjiN",Fri Sep 21 13:17:13 +0000 2018,0.6542,0.211,0.0,0.789,62
+BBC Breaking News,"UK PM Theresa May demands new proposals from EU to break Brexit ""impasse"" after Chequers plan rejected by EU leaders https://t.co/4IzVJBIco0",Fri Sep 21 13:14:06 +0000 2018,-0.5106,0.0,0.142,0.858,63
+BBC Breaking News,"UK PM Theresa May to make statement in Downing Street on state of #Brexit negotiations at 13:45 BST
+
+https://t.co/SUQnGZEPKZ",Fri Sep 21 12:02:41 +0000 2018,0.0,0.0,0.0,1.0,64
+BBC Breaking News,"At least 86 bodies are found after a Tanzanian ferry overturns in Lake Victoria, officials say https://t.co/Pcy3ObgGin",Fri Sep 21 07:52:13 +0000 2018,-0.3818,0.0,0.148,0.852,65
+BBC Breaking News,Multiple deaths and injuries after a shooting at a pharmacy distribution centre in Maryland - US police https://t.co/38OudkxJja,Thu Sep 20 16:10:35 +0000 2018,0.0,0.0,0.0,1.0,66
+BBC Breaking News,"After criticism of her Chequers plan by EU leaders, Theresa May stands by her #Brexit proposals as ""the only seriou… https://t.co/jAq6ulD1iY",Thu Sep 20 14:13:40 +0000 2018,-0.4404,0.0,0.127,0.873,67
+BBC Breaking News,"European Council President Donald Tusk says EU leaders agree Theresa May's Chequers plan for #Brexit ""will not work… https://t.co/9Mc9yWQLUJ",Thu Sep 20 13:36:45 +0000 2018,0.3612,0.122,0.0,0.878,68
+BBC Breaking News,"RT @BBCSport: The suspension of Russia's anti-doping agency (Rusada) has been lifted despite widespread opposition.
+
+Full story: https://t.…",Thu Sep 20 12:59:39 +0000 2018,0.0,0.0,0.0,1.0,69
+BBC Breaking News,Pakistan court orders release of ex-PM Nawaz Sharif and suspends his jail sentence https://t.co/3LqxVQ6F51,Wed Sep 19 10:21:14 +0000 2018,0.0772,0.091,0.0,0.909,70
+BBC Breaking News,"Woman dies after caravan blown off cliff in Galway, Ireland as Storm Ali brings disruption to British Isles https://t.co/wubY4511gO",Wed Sep 19 09:36:38 +0000 2018,-0.3612,0.0,0.122,0.878,71
+BBC Breaking News,"UK inflation rate for August unexpectedly rises to 2.7%, highest in six months https://t.co/GmqT0MuLhi",Wed Sep 19 08:33:35 +0000 2018,0.0,0.0,0.0,1.0,72
+BBC Breaking News,"Moon and Kim hail new future for North and South Korea, signing wide-ranging agreement in Pyongyang https://t.co/QNzHH5gdDP",Wed Sep 19 02:59:21 +0000 2018,0.5423,0.231,0.0,0.769,73
+BBC Breaking News,Germany's spy chief forced out of job over his controversial response to reports of far-right unrest in Chemnitz https://t.co/NUAvqHojSE,Tue Sep 18 16:12:26 +0000 2018,-0.5859,0.0,0.22,0.78,74
+BBC Breaking News,"RT @BBCSport: Ben Stokes and Alex Hales have been charged with bringing the game into disrepute by the ECB.
+
+https://t.co/1mH5geVa1O https:…",Tue Sep 18 13:13:51 +0000 2018,-0.2023,0.0,0.083,0.917,75
+BBC Breaking News,The US is imposing new tariffs on $200bn (£150bn) worth of Chinese goods as it escalates its trade war with Beijing https://t.co/CjuxgjX23d,Mon Sep 17 22:41:12 +0000 2018,-0.5267,0.073,0.202,0.725,76
+BBC Breaking News,Thai cave rescuer Vernon Unsworth sues Elon Musk over his repeated claims the British diver is child abuser https://t.co/wJeixByjo9,Mon Sep 17 18:11:18 +0000 2018,-0.5574,0.0,0.167,0.833,77
+BBC Breaking News,Russia and Turkey to create buffer zone in Syria's northern Idlib province to separate Syrian forces and rebels https://t.co/1xjM2afBPr,Mon Sep 17 16:42:17 +0000 2018,0.0772,0.1,0.086,0.813,78
+BBC Breaking News,"US Supreme Court nominee Brett Kavanaugh says sexual assault claim against him is ""completely false"" in first comme… https://t.co/MPyA5T4jiH",Mon Sep 17 14:42:34 +0000 2018,-0.0516,0.148,0.156,0.697,79
+BBC Breaking News,"International Monetary Fund warns no-deal #Brexit would inflict ""substantial costs"" on the UK economy https://t.co/qBkhE3584i",Mon Sep 17 09:18:01 +0000 2018,0.1027,0.111,0.086,0.802,80
+BBC Breaking News,"Police have sealed off the Prezzo restaurant in High Street, Salisbury, following a 'medical incident' involving a man and a woman",Sun Sep 16 19:30:19 +0000 2018,0.0,0.0,0.0,1.0,81
+BBC Breaking News,Correction: Christine Blasey Ford reveals she was teenager allegedly assaulted by Supreme Court nominee Kavanaugh https://t.co/NMZLm0Ro4C,Sun Sep 16 19:24:39 +0000 2018,0.0516,0.171,0.162,0.667,82
+BBC Breaking News,"RT @BBCSport: Kenya's Eliud Kipchoge has set a new marathon world record in Berlin.
+
+https://t.co/D9EEUxebgM https://t.co/mb8oigT6FB",Sun Sep 16 09:31:11 +0000 2018,0.0,0.0,0.0,1.0,83
+BBC Breaking News,"At least five dead as Florence mauls US East Coast
+
+·Winds of up to 70mph (110km/h) expected for several days
+·Almo… https://t.co/dAXPvHdCAW",Sat Sep 15 01:32:56 +0000 2018,-0.6486,0.0,0.17,0.83,84
+BBC Breaking News,"Hurricane Florence downgraded to tropical storm
+ 
+• Four people killed as storm batters US East Coast
+• 600,000 hom… https://t.co/EWslcjopvp",Fri Sep 14 21:00:56 +0000 2018,-0.6705,0.0,0.209,0.791,85
+BBC Breaking News,"Typhoon Mangkhut reaches northern Philippines with officials warning of possible ""very heavy damage"" https://t.co/ez3FCfWNV1",Fri Sep 14 18:28:18 +0000 2018,-0.6887,0.066,0.325,0.608,86
+BBC Breaking News,"Trump's former campaign manager Paul Manafort agrees to co-operate with Mueller probe, prosecutor says https://t.co/o8VmfnfWtx",Fri Sep 14 15:41:17 +0000 2018,0.2023,0.114,0.0,0.886,87
+BBC Breaking News,"#HurricaneFlorence latest
+
+• Centre of hurricane eye makes landfall
+• More than 300,000 people without power 
+• Eva… https://t.co/hxwsLoRxka",Fri Sep 14 11:48:34 +0000 2018,0.0,0.0,0.0,1.0,88
+BBC Breaking News,"#HurricaneFlorence makes landfall on east coast of US
+
+Follow our live updates https://t.co/DEangW2yzK https://t.co/yy1qY9b4ui",Fri Sep 14 10:05:23 +0000 2018,0.0,0.0,0.0,1.0,89
+BBC Breaking News,Suspects in poisoning of ex-Russian spy Sergei Skripal tell state-sponsored TV network RT they visited Salisbury as… https://t.co/wJsPNLoMCp,Thu Sep 13 10:26:24 +0000 2018,-0.7351,0.0,0.279,0.721,90
+BBC Breaking News,Two men named as suspects in poisoning of Russian ex-spy claim they were merely tourists to Salisbury Cathedral https://t.co/PFXBDyJrkf,Thu Sep 13 10:13:52 +0000 2018,-0.7351,0.0,0.267,0.733,91
+BBC Breaking News,"British couple who died at Egyptian hotel were killed by E. coli, the country's general prosecutor says https://t.co/PqSvcJ75N8",Wed Sep 12 15:02:35 +0000 2018,-0.8442,0.0,0.336,0.664,92
+BBC Breaking News,"""Nothing criminal"" about men named by UK over poisoning of ex-Russian spy Sergei Skripal and daughter, Putin says https://t.co/UjoGhhCn3G",Wed Sep 12 07:06:33 +0000 2018,-0.2556,0.118,0.161,0.721,93
+BBC Breaking News,"RT @bbctms: WICKET!
+There it is! Anderson cleans up Shami, bowled for 0. England win the match and Jimmy Anderson takes his 564th Test wick…",Tue Sep 11 16:30:50 +0000 2018,0.658,0.154,0.0,0.846,94
+BBC Breaking News,"RT @BBCSport: Uefa plans to introduce a third European club competition alongside the Champions League and Europa League from 2021.
+
+👉 http…",Tue Sep 11 09:21:43 +0000 2018,0.5267,0.129,0.0,0.871,95
+BBC Breaking News,"UK unemployment fell by 55,000 in the three months to July, ONS figures say https://t.co/XYEvJ6AbkM",Tue Sep 11 08:35:00 +0000 2018,-0.4404,0.0,0.172,0.828,96
+BBC Breaking News,England's leading Test run scorer Alastair Cook dismissed for 147 in his last ever innings for his country… https://t.co/XCWX52LxXE,Mon Sep 10 14:09:41 +0000 2018,0.0,0.0,0.0,1.0,97
+BBC Breaking News,"RT @bbctms: THERE IT IS!
+What a moment for Alastair Cook on his last-ever Test innings he brings up his hundred! Not sure he'd have expecte…",Mon Sep 10 11:45:36 +0000 2018,-0.3707,0.0,0.096,0.904,98
+BBC Breaking News,"Sweden's far right makes gains in election as establishment parties deadlocked, exit polls predict https://t.co/GXIMNX2uTb",Sun Sep 09 18:09:57 +0000 2018,0.6249,0.282,0.0,0.718,99
+BBC Breaking News,"28-year-old woman charged with attempted murder after man stabbed on Saturday in Barnsley, South Yorkshire https://t.co/IQTo0Ap8cW",Sun Sep 09 17:03:42 +0000 2018,-0.8555,0.0,0.42,0.58,100
+CBS News,Suspect in deadly South Carolina police ambush identified as elderly vet https://t.co/6awbOcZOrq https://t.co/PNUtOzDumw,Fri Oct 05 03:33:03 +0000 2018,-0.296,0.0,0.155,0.845,1
+CBS News,"Sen. Heidi Heitkamp, who will vote no on Kavanaugh, raises significant funds in 3rd quarter https://t.co/Rv14bGHRzF https://t.co/1wcqXx0mvs",Fri Oct 05 03:18:03 +0000 2018,-0.1027,0.095,0.116,0.789,2
+CBS News,Democratic senators request intel chief provide more information on Trump's claim about Chinese hacking… https://t.co/5m6t1TDqSr,Fri Oct 05 03:10:05 +0000 2018,0.0,0.0,0.0,1.0,3
+CBS News,Stock prices tumble as interest rate fears grip Wall Street https://t.co/Q8QEfb8iLN https://t.co/NNh4gElGur,Fri Oct 05 03:03:03 +0000 2018,0.0516,0.19,0.177,0.633,4
+CBS News,"Republicans still plan to begin voting on Supreme Court nominee Brett Kavanaugh on the Senate floor Friday, with fi… https://t.co/TfOTSpsOlq",Fri Oct 05 03:00:01 +0000 2018,0.5574,0.159,0.0,0.841,5
+CBS News,Dog with 3D-printed skull gives researchers hope for helping human patients https://t.co/6cQwmQ2Jtx https://t.co/0WfsX7RHNF,Fri Oct 05 02:39:54 +0000 2018,0.6249,0.317,0.0,0.683,6
+CBS News,"Trump blasts Democrats for ""rage-fueled resistance"" to Kavanaugh nomination https://t.co/jKDB9T08KE https://t.co/XCsfWgoAee",Fri Oct 05 02:14:35 +0000 2018,0.0,0.0,0.0,1.0,7
+CBS News,"🇺🇸 👋 So long, Cap: Chris Evans appears to bid farewell to Captain America https://t.co/5s0yvmzFGD https://t.co/0wpmIMMgyZ",Fri Oct 05 01:58:28 +0000 2018,0.7184,0.273,0.0,0.727,8
+CBS News,"WATCH: Singer Janis Joplin died 48 years ago today at the age of 27. Her soulful music has endured for generations,… https://t.co/uIX8R7dGq1",Fri Oct 05 01:35:28 +0000 2018,-0.5574,0.0,0.146,0.854,9
+CBS News,1-year-old girl found alive under debris from deadly tsunami in Indonesia https://t.co/9sEh5p54eC https://t.co/bBuLGOfBM9,Fri Oct 05 01:14:41 +0000 2018,0.3818,0.178,0.0,0.822,10
+CBS News,"Elon Musk is taunting the government regulators who threatened to oust him as Tesla's CEO, just days after he settl… https://t.co/XXYf1JCS2M",Fri Oct 05 00:54:32 +0000 2018,-0.4588,0.0,0.13,0.87,11
+CBS News,"Kavanaugh fight rallies GOP ahead of midterms: ""It's like pouring gasoline on the base"" https://t.co/jwT7VIaYke https://t.co/1AT8ljJplW",Fri Oct 05 00:34:56 +0000 2018,-0.0258,0.131,0.136,0.733,12
+CBS News,"Anti-Kavanaugh protesters take over Senate building, Amy Schumer among those detained https://t.co/AssMs1leog https://t.co/9YW0zwWkZ1",Fri Oct 05 00:14:44 +0000 2018,-0.5574,0.0,0.295,0.705,13
+CBS News,Missing dog found clinging to pipe above 8-foot pit of water in New Jersey https://t.co/89jTmUFSbe https://t.co/C5zQh5ldVH,Thu Oct 04 23:54:54 +0000 2018,-0.296,0.0,0.128,0.872,14
+CBS News,"HAPPENING NOW: Pres. Trump rallies supporters in Minnesota, as senators in Washington edge closer to confirming his… https://t.co/BYI5dF6GMe",Thu Oct 04 23:40:30 +0000 2018,0.4404,0.146,0.0,0.854,15
+CBS News,Writer insists bizarre EgyptAir interview with Drew Barrymore is real https://t.co/th9aM1HiJe https://t.co/87cJnzbWnP,Thu Oct 04 23:34:40 +0000 2018,-0.3182,0.0,0.173,0.827,16
+CBS News,RESCUING ROSCO: A family thought their little dog was lost forever – then workers at a nearby water plant heard bar… https://t.co/QDwYHdtMdO,Thu Oct 04 23:15:23 +0000 2018,-0.2585,0.0,0.102,0.898,17
+CBS News,Four years ago a dachshund developed a small bump on her head. Then it grew and grew into a life-threatening tumor.… https://t.co/6X4VCjwN3M,Thu Oct 04 23:11:33 +0000 2018,0.0,0.0,0.0,1.0,18
+CBS News,"RT @CBSEveningNews: In the midst of rubble and destruction, a glimmer of hope. 
+
+Swept away from her family as an earthquake and tsunami, w…",Thu Oct 04 22:59:24 +0000 2018,-0.2023,0.105,0.134,0.761,19
+CBS News,"RT @CBSEveningNews: Cristiano Ronaldo, one of the world’s biggest soccers stars, was benched by the Portuguese national team as a woman all…",Thu Oct 04 22:58:50 +0000 2018,0.0,0.0,0.0,1.0,20
+CBS News,Suspect in deadly South Carolina police ambush identified as elderly vet https://t.co/6awbOcZOrq https://t.co/PNUtOzDumw,Fri Oct 05 03:33:03 +0000 2018,-0.296,0.0,0.155,0.845,21
+CBS News,"Sen. Heidi Heitkamp, who will vote no on Kavanaugh, raises significant funds in 3rd quarter https://t.co/Rv14bGHRzF https://t.co/1wcqXx0mvs",Fri Oct 05 03:18:03 +0000 2018,-0.1027,0.095,0.116,0.789,22
+CBS News,Democratic senators request intel chief provide more information on Trump's claim about Chinese hacking… https://t.co/5m6t1TDqSr,Fri Oct 05 03:10:05 +0000 2018,0.0,0.0,0.0,1.0,23
+CBS News,Stock prices tumble as interest rate fears grip Wall Street https://t.co/Q8QEfb8iLN https://t.co/NNh4gElGur,Fri Oct 05 03:03:03 +0000 2018,0.0516,0.19,0.177,0.633,24
+CBS News,"Republicans still plan to begin voting on Supreme Court nominee Brett Kavanaugh on the Senate floor Friday, with fi… https://t.co/TfOTSpsOlq",Fri Oct 05 03:00:01 +0000 2018,0.5574,0.159,0.0,0.841,25
+CBS News,Dog with 3D-printed skull gives researchers hope for helping human patients https://t.co/6cQwmQ2Jtx https://t.co/0WfsX7RHNF,Fri Oct 05 02:39:54 +0000 2018,0.6249,0.317,0.0,0.683,26
+CBS News,"Trump blasts Democrats for ""rage-fueled resistance"" to Kavanaugh nomination https://t.co/jKDB9T08KE https://t.co/XCsfWgoAee",Fri Oct 05 02:14:35 +0000 2018,0.0,0.0,0.0,1.0,27
+CBS News,"🇺🇸 👋 So long, Cap: Chris Evans appears to bid farewell to Captain America https://t.co/5s0yvmzFGD https://t.co/0wpmIMMgyZ",Fri Oct 05 01:58:28 +0000 2018,0.7184,0.273,0.0,0.727,28
+CBS News,"WATCH: Singer Janis Joplin died 48 years ago today at the age of 27. Her soulful music has endured for generations,… https://t.co/uIX8R7dGq1",Fri Oct 05 01:35:28 +0000 2018,-0.5574,0.0,0.146,0.854,29
+CBS News,1-year-old girl found alive under debris from deadly tsunami in Indonesia https://t.co/9sEh5p54eC https://t.co/bBuLGOfBM9,Fri Oct 05 01:14:41 +0000 2018,0.3818,0.178,0.0,0.822,30
+CBS News,"Elon Musk is taunting the government regulators who threatened to oust him as Tesla's CEO, just days after he settl… https://t.co/XXYf1JCS2M",Fri Oct 05 00:54:32 +0000 2018,-0.4588,0.0,0.13,0.87,31
+CBS News,"Kavanaugh fight rallies GOP ahead of midterms: ""It's like pouring gasoline on the base"" https://t.co/jwT7VIaYke https://t.co/1AT8ljJplW",Fri Oct 05 00:34:56 +0000 2018,-0.0258,0.131,0.136,0.733,32
+CBS News,"Anti-Kavanaugh protesters take over Senate building, Amy Schumer among those detained https://t.co/AssMs1leog https://t.co/9YW0zwWkZ1",Fri Oct 05 00:14:44 +0000 2018,-0.5574,0.0,0.295,0.705,33
+CBS News,Missing dog found clinging to pipe above 8-foot pit of water in New Jersey https://t.co/89jTmUFSbe https://t.co/C5zQh5ldVH,Thu Oct 04 23:54:54 +0000 2018,-0.296,0.0,0.128,0.872,34
+CBS News,"HAPPENING NOW: Pres. Trump rallies supporters in Minnesota, as senators in Washington edge closer to confirming his… https://t.co/BYI5dF6GMe",Thu Oct 04 23:40:30 +0000 2018,0.4404,0.146,0.0,0.854,35
+CBS News,Writer insists bizarre EgyptAir interview with Drew Barrymore is real https://t.co/th9aM1HiJe https://t.co/87cJnzbWnP,Thu Oct 04 23:34:40 +0000 2018,-0.3182,0.0,0.173,0.827,36
+CBS News,RESCUING ROSCO: A family thought their little dog was lost forever – then workers at a nearby water plant heard bar… https://t.co/QDwYHdtMdO,Thu Oct 04 23:15:23 +0000 2018,-0.2585,0.0,0.102,0.898,37
+CBS News,Four years ago a dachshund developed a small bump on her head. Then it grew and grew into a life-threatening tumor.… https://t.co/6X4VCjwN3M,Thu Oct 04 23:11:33 +0000 2018,0.0,0.0,0.0,1.0,38
+CBS News,"RT @CBSEveningNews: In the midst of rubble and destruction, a glimmer of hope. 
+
+Swept away from her family as an earthquake and tsunami, w…",Thu Oct 04 22:59:24 +0000 2018,-0.2023,0.105,0.134,0.761,39
+CBS News,"RT @CBSEveningNews: Cristiano Ronaldo, one of the world’s biggest soccers stars, was benched by the Portuguese national team as a woman all…",Thu Oct 04 22:58:50 +0000 2018,0.0,0.0,0.0,1.0,40
+CBS News,"RT @CBSEveningNews: In the dark of the night, at 2:30am ET, the 46-page FBI report on claims of sexual misconduct against Brett Kavanaugh a…",Thu Oct 04 22:40:41 +0000 2018,0.0,0.0,0.0,1.0,41
+CBS News,RT @CBSEveningNews: Nine people were interviewed for the FBI investigation into sexual misconduct allegations against Pres. Trump’s SCOTUS…,Thu Oct 04 22:40:41 +0000 2018,0.0,0.0,0.0,1.0,42
+CBS News,"John Paul Stevens says Brett Kavanaugh shouldn't be on the Supreme Court after his ""performance in the hearings""… https://t.co/lz63mbhUZO",Thu Oct 04 22:29:40 +0000 2018,0.5574,0.167,0.0,0.833,43
+CBS News,WATCH: Dog rescued after spending a week floating on couch in flooded home after Hurricane Florence… https://t.co/Za4v98Upxt,Thu Oct 04 22:14:57 +0000 2018,0.4215,0.157,0.0,0.843,44
+CBS News,More than 6 million pounds of beef recalled due to possible salmonella https://t.co/bU4vqWGdQg https://t.co/Ku3Khbi8JA,Thu Oct 04 22:00:01 +0000 2018,0.0,0.0,0.0,1.0,45
+CBS News,Best-selling author John Green on how he deals with obsessive-compulsive disorder and 'thought spirals'… https://t.co/PVx7hUQVIr,Thu Oct 04 21:39:39 +0000 2018,-0.4019,0.0,0.162,0.838,46
+CBS News,"All Palm Beach County, Florida, beaches closed over red tide health concerns https://t.co/1br123i9MX https://t.co/9U3noQ77mU",Thu Oct 04 21:19:53 +0000 2018,0.0,0.0,0.0,1.0,47
+CBS News,The case for pessimism: Cheery people earn less in business https://t.co/q107w4SM5s https://t.co/3xBl7ywrrX,Thu Oct 04 20:59:45 +0000 2018,0.2732,0.224,0.155,0.621,48
+CBS News,"Nike ""deeply concerned"" by ""disturbing"" rape allegations against soccer star Cristiano Ronaldo… https://t.co/24bQ9gz53F",Thu Oct 04 20:39:57 +0000 2018,-0.6908,0.0,0.281,0.719,49
+CBS News,"Mischa Barton joins ""The Hills"" reboot https://t.co/Xrwfemrswt https://t.co/qAmb2Xqztj",Thu Oct 04 20:19:43 +0000 2018,0.0,0.0,0.0,1.0,50
+CBS News,Chris Evans appears to bid farewell to Captain America https://t.co/YJIRszj19d https://t.co/YXSEOC2WF6,Thu Oct 04 19:59:53 +0000 2018,0.0,0.0,0.0,1.0,51
+CBS News,Aspiring small business owners should be clear on their own skills before making the leap — and finding help if the… https://t.co/S2eY54pCoq,Thu Oct 04 19:14:31 +0000 2018,0.6486,0.218,0.0,0.782,52
+CBS News,"""This is almost rock-bottom. I would like to have the future of mending things so that we can do things in a colleg… https://t.co/yAodC03iSu",Thu Oct 04 19:02:34 +0000 2018,0.3041,0.096,0.0,0.904,53
+CBS News,"WATCH: GOP Senators address FBI report on Kavanaugh
+""There is no way anything we did would satisfy the Democrats. T… https://t.co/mRoatyVQpw",Thu Oct 04 18:39:53 +0000 2018,0.2023,0.124,0.091,0.785,54
+CBS News,A-MAZE-ING: This corn maze in Utah is a fall-lover's dream https://t.co/Pf3u2lCwSd https://t.co/BQn93ojJc9,Thu Oct 04 18:29:54 +0000 2018,0.25,0.167,0.0,0.833,55
+CBS News,"Lindsey Graham says Klobuchar should apologize to Kavanaugh over ""smear campaign"" https://t.co/xs7o7Hw9uN https://t.co/WgfArCafp1",Thu Oct 04 18:14:59 +0000 2018,-0.2732,0.094,0.168,0.738,56
+CBS News,US service member killed in action in Afghanistan today https://t.co/SiRpHwavVQ https://t.co/I8qArCPaK4,Thu Oct 04 17:59:45 +0000 2018,-0.6705,0.0,0.31,0.69,57
+CBS News,"Bedsheet ""nooses"" among ""serious violations"" at California ICE detention facility https://t.co/aTYpiVhXta https://t.co/eFVmTkg3re",Thu Oct 04 17:44:31 +0000 2018,-0.7351,0.0,0.444,0.556,58
+CBS News,"Ben Sasse says he urged President Trump to appoint woman, rather than Kavanaugh https://t.co/zifGdawEK5 https://t.co/npd475O3i9",Thu Oct 04 17:30:04 +0000 2018,0.0,0.0,0.0,1.0,59
+CBS News,"Man sent letters before car explosion that killed 3, including his son, authorities say https://t.co/cThxFptlTj https://t.co/2YgLFLDZDI",Thu Oct 04 17:15:08 +0000 2018,-0.6705,0.0,0.231,0.769,60
+CBS News,"INCREDIBLE: People are ""falling"" in love with these colorful autumn leaves captured by a drone flying high above Ut… https://t.co/RIXbSPTs2A",Thu Oct 04 17:01:20 +0000 2018,0.6369,0.189,0.0,0.811,61
+CBS News,"RT @CBSEveningNews: STARTING NEXT WEEK: @jeffglor to anchor #CBSEveningNews from key battleground states - Arizona, Texas, Missouri &amp; Flori…",Thu Oct 04 16:56:04 +0000 2018,-0.4019,0.0,0.137,0.863,62
+CBS News,"Mark Judge memoir offered for $1,800 on eBay https://t.co/9YWDCC16QB https://t.co/tTfbHaU7vd",Thu Oct 04 16:44:38 +0000 2018,0.0,0.0,0.0,1.0,63
+CBS News,Justice Dept. announces charges against 7 Russian operatives for cyber attacks https://t.co/qA9DVSkUjn https://t.co/wkfbECTEYz,Thu Oct 04 16:29:40 +0000 2018,-0.1531,0.195,0.287,0.517,64
+CBS News,"Twitter still flooded with shame accounts, four of five fake accounts that were active during the 2016 election sti… https://t.co/RJ8jX6NeG2",Thu Oct 04 16:14:52 +0000 2018,-0.5423,0.104,0.239,0.656,65
+CBS News,Soyuz capsule brings three station fliers back to Earth after 6 months in orbit https://t.co/MUOpfqtFzL https://t.co/Cgl6pvLr3g,Thu Oct 04 15:59:33 +0000 2018,0.0,0.0,0.0,1.0,66
+CBS News,"""You were surprised, why? I think the Democratic strategy is clear. Stall and re-stall...this is smashmouth raw pol… https://t.co/pdGW6ONpuD",Thu Oct 04 15:56:34 +0000 2018,0.4019,0.211,0.085,0.704,67
+CBS News,"WATCH: Democrats address FBI report on Kavanaugh
+
+""Dr. Ford came forward and won America's hearts. Our Republican c… https://t.co/gR2kSH7ryW",Thu Oct 04 15:52:46 +0000 2018,0.5719,0.171,0.0,0.829,68
+CBS News,Fourth victim dies from L.A.-area attacks on mostly homeless men https://t.co/tE0oVZvDLw https://t.co/qHWnU0HxpS,Thu Oct 04 15:44:40 +0000 2018,-0.6124,0.0,0.333,0.667,69
+CBS News,"Astronomers find signs of ""exomoon"" in distant solar system https://t.co/d6riKDgYfL https://t.co/p2lZJLn6wh",Thu Oct 04 15:29:33 +0000 2018,0.0,0.0,0.0,1.0,70
+CBS News,"""The facts do not support the allegations levied at Judge Kavanaugh's character,"" Senate Majority Leader Mitch McCo… https://t.co/zsK9Vj3Hqo",Thu Oct 04 15:26:59 +0000 2018,-0.3089,0.0,0.117,0.883,71
+CBS News,"When Walmart said it was raising wages in early 2015, the retailing behemoth may have unwittingly started a trend… https://t.co/bXRd1JvQxu",Thu Oct 04 15:14:38 +0000 2018,0.0,0.0,0.0,1.0,72
+CBS News,"""The most notable part of this report is what's not in it."" Senate Democrats are detailing the latest FBI report on… https://t.co/ak1GKVPKf9",Thu Oct 04 15:11:37 +0000 2018,0.0,0.0,0.0,1.0,73
+CBS News,WATCH: This dog floated on a couch in the middle of a flooded house for nearly two weeks. And his rescue will melt… https://t.co/9aAkEtJcjJ,Thu Oct 04 15:00:58 +0000 2018,0.5106,0.136,0.0,0.864,74
+CBS News,Vice President Pence plans to accuse China of trying to undermine President Trump as the administration deploys tou… https://t.co/7RWFBMhK87,Thu Oct 04 14:44:37 +0000 2018,-0.4588,0.0,0.19,0.81,75
+CBS News,"MIRACLE WORKER: His whole life, this 6-year-old Texas boy was unable to speak. Then, a trip to the dentist changed… https://t.co/sFVEB8wmoY",Thu Oct 04 14:30:30 +0000 2018,0.6739,0.193,0.0,0.807,76
+CBS News,The U.S. Justice Department has charged seven Russian military intelligence officers with hacking anti-doping agenc… https://t.co/RpmWefLpId,Thu Oct 04 14:14:46 +0000 2018,0.6908,0.305,0.085,0.61,77
+CBS News,"Pres. Trump received at least $413 million in today's dollars from his father, much of that through questionable ta… https://t.co/GL8Ge1mUfq",Thu Oct 04 14:00:00 +0000 2018,-0.296,0.0,0.104,0.896,78
+CBS News,"""The defendants targeted athletes and anti-doping agencies as retaliation for the outing of Russia's state sponsore… https://t.co/XunrnySmpO",Thu Oct 04 13:52:55 +0000 2018,0.0,0.0,0.0,1.0,79
+CBS News,"A family thought their 6-year-old son couldn’t speak, but a 30-second procedure at the dentist changed his life… https://t.co/x7Q9RheCjt",Thu Oct 04 13:44:39 +0000 2018,0.0,0.0,0.0,1.0,80
+CBS News,"Cristiano Ronaldo accuser had suicidal thoughts after alleged rape, lawyer says https://t.co/o0vsgTeXY8 https://t.co/seSbapHiFC",Thu Oct 04 13:30:38 +0000 2018,-0.8807,0.0,0.455,0.545,81
+CBS News,Judge cites Trump comments in blocking U.S. move against immigrants from 4 nations https://t.co/fYSrCH4bhX https://t.co/4TnIbN060U,Thu Oct 04 13:16:00 +0000 2018,-0.3818,0.0,0.167,0.833,82
+CBS News,"A good credit score could impact your ability to get a new home or car. But credit card debt, with high interest ra… https://t.co/BC5gr5sqnT",Thu Oct 04 13:00:34 +0000 2018,0.8201,0.399,0.101,0.499,83
+CBS News,RT @CBSThisMorning: Researchers from the Washington University School of Medicine in St. Louis found consuming one to two drinks four or mo…,Thu Oct 04 12:58:19 +0000 2018,0.0,0.0,0.0,1.0,84
+CBS News,A 30-year South Carolina police veteran was killed and 6 of his comrades were wounded when a man opened fire from i… https://t.co/WNgRnuhALU,Thu Oct 04 12:44:53 +0000 2018,-0.7845,0.0,0.277,0.723,85
+CBS News,"RT @CBSThisMorning: The real question here is what do Senators Flake, Collins and Murkowski think of this? Do they think it's adequate? --…",Thu Oct 04 12:35:53 +0000 2018,0.3094,0.093,0.0,0.907,86
+CBS News,Deputy pushes stranded woman's wheelchair one mile to her home https://t.co/iknSnSGl3R https://t.co/cBai5b6u1U,Thu Oct 04 12:30:29 +0000 2018,0.0,0.0,0.0,1.0,87
+CBS News,"RT @CBSThisMorning: ""I personally don't believe, as a prosecutor, you can have a credible and complete investigation without an interview o…",Thu Oct 04 12:30:01 +0000 2018,0.0,0.0,0.0,1.0,88
+CBS News,"Track Palin, son of former Alaska Gov. Sarah Palin, to spend year in custody after assault arrests… https://t.co/7OoGjoa4Xt",Thu Oct 04 12:14:50 +0000 2018,-0.5859,0.0,0.183,0.817,89
+CBS News,RT @NorahODonnell: We’ll talk to @drtaranarula this morning about how a daily alcoholic drink may or may not benefit your health. What you…,Thu Oct 04 12:04:47 +0000 2018,-0.357,0.0,0.106,0.894,90
+CBS News,"President Trump has said for decades that he's a self-made billionaire. But, a new investigation reveals a differen… https://t.co/RsslbV0htt",Thu Oct 04 12:00:52 +0000 2018,0.0,0.0,0.0,1.0,91
+CBS News,"RT @NorahODonnell: There are still many unanswered questions about the FBI inquiry into Brett #Kavanaugh - coming up on @CBSThisMorning, @F…",Thu Oct 04 11:59:00 +0000 2018,0.0,0.0,0.0,1.0,92
+CBS News,Police boost security at Capitol amid tension over Brett Kavanaugh confirmation https://t.co/DgMnr7ubtJ https://t.co/pteXrKFxlH,Thu Oct 04 11:44:43 +0000 2018,0.4215,0.293,0.132,0.575,93
+CBS News,RT @CBSThisMorning: FEMA is calling its first test of the new presidential alert system a success. The mass cell phone blast went out at 2:…,Thu Oct 04 11:40:58 +0000 2018,0.7096,0.211,0.0,0.789,94
+CBS News,RT @CBSThisMorning: Indonesian marines are pouring into the area devastated by an earthquake and tsunami to help with rescues. The death to…,Thu Oct 04 11:38:04 +0000 2018,-0.5994,0.162,0.256,0.583,95
+CBS News,RT @CBSThisMorning: Amazon faces criticism after revealing changes to employee compensation tied to its minimum wage hike. They announced i…,Thu Oct 04 11:37:32 +0000 2018,-0.296,0.075,0.128,0.796,96
+CBS News,"Indonesia earthquake and tsunami leave more than 70,000 homeless in hard-hit Palu https://t.co/RoDMMM1y1c https://t.co/UunrKswmmP",Thu Oct 04 11:30:47 +0000 2018,-0.0516,0.0,0.085,0.915,97
+CBS News,RT @CBSThisMorning: The FBI investigation that delayed a confirmation vote on Supreme Court nominee Brett Kavanaugh is finished. The report…,Thu Oct 04 11:17:00 +0000 2018,0.4019,0.16,0.084,0.756,98
+CBS News,Senators will review FBI findings today after investigation that delayed a confirmation vote on Supreme Court nomin… https://t.co/x9UXXep6Ee,Thu Oct 04 11:15:58 +0000 2018,0.4019,0.176,0.093,0.732,99
+CBS News,Mom says teachers forced young daughter with autism into closet https://t.co/XsqWTCPTg0 https://t.co/ILS0lDrkbM,Thu Oct 04 11:09:51 +0000 2018,-0.4588,0.0,0.214,0.786,100
+CNN Breaking News,"A cloture vote for Supreme Court nominee Brett Kavanaugh is set for Friday morning, moving the Senate closer to a c… https://t.co/e3hE5sNRLm",Thu Oct 04 23:30:55 +0000 2018,0.5574,0.159,0.0,0.841,1
+CNN Breaking News,Capitol Police arrested 302 protesters during demonstrations at Senate Office buildings over the Brett Kavanaugh no… https://t.co/ctmR9Oaybh,Thu Oct 04 23:04:54 +0000 2018,-0.6124,0.0,0.25,0.75,2
+CNN Breaking News,Two protesters opposed to Brett Kavanaugh's Supreme Court nomination were arrested on suspicion of blocking the ent… https://t.co/W5FIGs2xcd,Thu Oct 04 22:05:42 +0000 2018,-0.6808,0.134,0.381,0.485,3
+CNN Breaking News,"Nineties rap mogul Marion ""Suge"" Knight is sentenced to 28 years in prison after pleading no contest to manslaughte… https://t.co/DCe5plFDkp",Thu Oct 04 17:21:50 +0000 2018,-0.6808,0.0,0.28,0.72,4
+CNN Breaking News,Seven Russian intelligence officers are charged in a US indictment alleging the use of cybercrimes to distract from… https://t.co/GWDsGParc7,Thu Oct 04 13:58:17 +0000 2018,0.0258,0.14,0.181,0.679,5
+CNN Breaking News,A massive recall of 6.5 million pounds of beef is issued after a salmonella outbreak is linked to meat sold across… https://t.co/OIqRvu4sNB,Thu Oct 04 13:19:59 +0000 2018,0.0,0.0,0.0,1.0,6
+CNN Breaking News,"A US service member assigned to the NATO mission in Afghanistan was killed on Thursday, the Pentagon says… https://t.co/heEDOwDCAa",Thu Oct 04 13:03:45 +0000 2018,-0.6705,0.0,0.209,0.791,7
+CNN Breaking News,Senate Judiciary Committee has received the supplemental FBI background file on Supreme Court nominee Brett Kavanau… https://t.co/Lel2EgRcGq,Thu Oct 04 10:29:52 +0000 2018,0.5574,0.184,0.0,0.816,8
+CNN Breaking News,Australia's busiest airport was on high alert Thursday after a United Airlines flight from Los Angeles issued a may… https://t.co/jQ1RuHC2tS,Thu Oct 04 02:47:23 +0000 2018,0.6124,0.238,0.0,0.762,9
+CNN Breaking News,"RT @CNNPolitics: Capitol Police arrest a man suspected of ""doxing"" lawmakers — or posting their private information online — during Supreme…",Thu Oct 04 02:42:32 +0000 2018,-0.5106,0.0,0.212,0.788,10
+CNN Breaking News,RT @CNNPolitics: BREAKING: Senate Majority Leader Mitch McConnell takes a key step toward the vote on Brett Kavanaugh's nomination https://…,Thu Oct 04 02:13:06 +0000 2018,0.0,0.0,0.0,1.0,11
+CNN Breaking News,A California federal judge temporarily blocked Trump's administration from stripping Temporary Protected Status fro… https://t.co/1QOnVq0BOI,Thu Oct 04 01:47:23 +0000 2018,0.2023,0.171,0.124,0.706,12
+CNN Breaking News,"James Roche, one of Kavanaugh’s freshman roommates, says Kavanaugh lied under oath about his drinking and about the… https://t.co/PAbub0JmFa",Thu Oct 04 01:16:16 +0000 2018,-0.3818,0.0,0.126,0.874,13
+CNN Breaking News,"Seven law enforcement officers were shot, one fatally, during a standoff in South Carolina, as sheriff's deputies w… https://t.co/SX27SQ7tbd",Thu Oct 04 01:13:39 +0000 2018,-0.6369,0.0,0.198,0.802,14
+CNN Breaking News,"RT @CNNPolitics: Senators will be able to start reading the Kavanugh FBI report Thursday morning, sources say https://t.co/Q5vSw5VaYv https…",Thu Oct 04 00:25:29 +0000 2018,0.0,0.0,0.0,1.0,15
+CNN Breaking News,"One of the five law enforcement officers shot in South Carolina has died, Florence County coroner says… https://t.co/cpcaoISDRH",Wed Oct 03 23:03:25 +0000 2018,-0.5574,0.0,0.175,0.825,16
+CNN Breaking News,"Five law enforcement officers have been shot in Florence County, South Carolina, sheriff's deputy says. A suspect i… https://t.co/6BtjVK7Sok",Wed Oct 03 22:16:58 +0000 2018,-0.296,0.0,0.115,0.885,17
+CNN Breaking News,The Senate passes legislation to combat the opioid epidemic by a vote of 98-1. The bill now heads to the White Hous… https://t.co/hxvRTSav7v,Wed Oct 03 20:31:50 +0000 2018,-0.34,0.0,0.103,0.897,18
+CNN Breaking News,"US officials just ran a big test of an emergency system that uses your cell phone. We have the FAQs (and no, Presid… https://t.co/wRL0kZsHSU",Wed Oct 03 18:26:36 +0000 2018,-0.5859,0.0,0.186,0.814,19
+CNN Breaking News,"Astronomers say they may have made the first discovery of an exomoon, a moon outside our solar system… https://t.co/IN5GguVUee",Wed Oct 03 18:14:59 +0000 2018,0.0,0.0,0.0,1.0,20
+CNN Breaking News,"A cloture vote for Supreme Court nominee Brett Kavanaugh is set for Friday morning, moving the Senate closer to a c… https://t.co/e3hE5sNRLm",Thu Oct 04 23:30:55 +0000 2018,0.5574,0.159,0.0,0.841,21
+CNN Breaking News,Capitol Police arrested 302 protesters during demonstrations at Senate Office buildings over the Brett Kavanaugh no… https://t.co/ctmR9Oaybh,Thu Oct 04 23:04:54 +0000 2018,-0.6124,0.0,0.25,0.75,22
+CNN Breaking News,Two protesters opposed to Brett Kavanaugh's Supreme Court nomination were arrested on suspicion of blocking the ent… https://t.co/W5FIGs2xcd,Thu Oct 04 22:05:42 +0000 2018,-0.6808,0.134,0.381,0.485,23
+CNN Breaking News,"Nineties rap mogul Marion ""Suge"" Knight is sentenced to 28 years in prison after pleading no contest to manslaughte… https://t.co/DCe5plFDkp",Thu Oct 04 17:21:50 +0000 2018,-0.6808,0.0,0.28,0.72,24
+CNN Breaking News,Seven Russian intelligence officers are charged in a US indictment alleging the use of cybercrimes to distract from… https://t.co/GWDsGParc7,Thu Oct 04 13:58:17 +0000 2018,0.0258,0.14,0.181,0.679,25
+CNN Breaking News,A massive recall of 6.5 million pounds of beef is issued after a salmonella outbreak is linked to meat sold across… https://t.co/OIqRvu4sNB,Thu Oct 04 13:19:59 +0000 2018,0.0,0.0,0.0,1.0,26
+CNN Breaking News,"A US service member assigned to the NATO mission in Afghanistan was killed on Thursday, the Pentagon says… https://t.co/heEDOwDCAa",Thu Oct 04 13:03:45 +0000 2018,-0.6705,0.0,0.209,0.791,27
+CNN Breaking News,Senate Judiciary Committee has received the supplemental FBI background file on Supreme Court nominee Brett Kavanau… https://t.co/Lel2EgRcGq,Thu Oct 04 10:29:52 +0000 2018,0.5574,0.184,0.0,0.816,28
+CNN Breaking News,Australia's busiest airport was on high alert Thursday after a United Airlines flight from Los Angeles issued a may… https://t.co/jQ1RuHC2tS,Thu Oct 04 02:47:23 +0000 2018,0.6124,0.238,0.0,0.762,29
+CNN Breaking News,"RT @CNNPolitics: Capitol Police arrest a man suspected of ""doxing"" lawmakers — or posting their private information online — during Supreme…",Thu Oct 04 02:42:32 +0000 2018,-0.5106,0.0,0.212,0.788,30
+CNN Breaking News,RT @CNNPolitics: BREAKING: Senate Majority Leader Mitch McConnell takes a key step toward the vote on Brett Kavanaugh's nomination https://…,Thu Oct 04 02:13:06 +0000 2018,0.0,0.0,0.0,1.0,31
+CNN Breaking News,A California federal judge temporarily blocked Trump's administration from stripping Temporary Protected Status fro… https://t.co/1QOnVq0BOI,Thu Oct 04 01:47:23 +0000 2018,0.2023,0.171,0.124,0.706,32
+CNN Breaking News,"James Roche, one of Kavanaugh’s freshman roommates, says Kavanaugh lied under oath about his drinking and about the… https://t.co/PAbub0JmFa",Thu Oct 04 01:16:16 +0000 2018,-0.3818,0.0,0.126,0.874,33
+CNN Breaking News,"Seven law enforcement officers were shot, one fatally, during a standoff in South Carolina, as sheriff's deputies w… https://t.co/SX27SQ7tbd",Thu Oct 04 01:13:39 +0000 2018,-0.6369,0.0,0.198,0.802,34
+CNN Breaking News,"RT @CNNPolitics: Senators will be able to start reading the Kavanugh FBI report Thursday morning, sources say https://t.co/Q5vSw5VaYv https…",Thu Oct 04 00:25:29 +0000 2018,0.0,0.0,0.0,1.0,35
+CNN Breaking News,"One of the five law enforcement officers shot in South Carolina has died, Florence County coroner says… https://t.co/cpcaoISDRH",Wed Oct 03 23:03:25 +0000 2018,-0.5574,0.0,0.175,0.825,36
+CNN Breaking News,"Five law enforcement officers have been shot in Florence County, South Carolina, sheriff's deputy says. A suspect i… https://t.co/6BtjVK7Sok",Wed Oct 03 22:16:58 +0000 2018,-0.296,0.0,0.115,0.885,37
+CNN Breaking News,The Senate passes legislation to combat the opioid epidemic by a vote of 98-1. The bill now heads to the White Hous… https://t.co/hxvRTSav7v,Wed Oct 03 20:31:50 +0000 2018,-0.34,0.0,0.103,0.897,38
+CNN Breaking News,"US officials just ran a big test of an emergency system that uses your cell phone. We have the FAQs (and no, Presid… https://t.co/wRL0kZsHSU",Wed Oct 03 18:26:36 +0000 2018,-0.5859,0.0,0.186,0.814,39
+CNN Breaking News,"Astronomers say they may have made the first discovery of an exomoon, a moon outside our solar system… https://t.co/IN5GguVUee",Wed Oct 03 18:14:59 +0000 2018,0.0,0.0,0.0,1.0,40
+CNN Breaking News,"Sarah Sanders says President Trump was ""stating the facts"" in comments seen as mocking Kavanaugh accuser's testimon… https://t.co/H7R85pvMmV",Wed Oct 03 17:39:20 +0000 2018,-0.4019,0.0,0.137,0.863,41
+CNN Breaking News,"RT @CNNPolitics: ""The Iranian regime has systematically pursued a policy of hostility toward the United States,” national security adviser…",Wed Oct 03 17:29:47 +0000 2018,0.1779,0.219,0.148,0.633,42
+CNN Breaking News,Soccer star Cristiano Ronaldo tweets a denial of rape allegations in an American woman's lawsuit and says he awaits… https://t.co/K4k6MEfLGQ,Wed Oct 03 15:15:12 +0000 2018,-0.765,0.0,0.28,0.72,43
+CNN Breaking News,RT @CNNMoney: Stocks race higher at the open. Dow rises 140 points to all-time high. S&amp;P 500 and Nasdaq advance 0.4%. JCPenney jumps 8% as…,Wed Oct 03 13:46:43 +0000 2018,0.0,0.0,0.0,1.0,44
+CNN Breaking News,"Sen. Susan Collins, a key GOP vote on Brett Kavanaugh's nomination, says President Trump's comments mocking Christi… https://t.co/QtxLRCHbGH",Wed Oct 03 13:44:18 +0000 2018,-0.4019,0.0,0.144,0.856,45
+CNN Breaking News,"Grammy Award-winning sound engineer Geoff Emerick, who worked on several Beatles albums, is dead at age 72. He also… https://t.co/c96pd4ZoXE",Wed Oct 03 12:09:00 +0000 2018,-0.6486,0.0,0.185,0.815,46
+CNN Breaking News,France has frozen assets of Iran's intelligence services and two Iranian nationals after linking them to a thwarted… https://t.co/eLAodf53qY,Wed Oct 03 11:12:30 +0000 2018,0.5859,0.231,0.0,0.769,47
+CNN Breaking News,FBI is expanding its inquiry into sexual assault allegations against Brett Kavanaugh beyond the initial four interv… https://t.co/ykJ8CJbf2V,Wed Oct 03 01:51:46 +0000 2018,-0.5859,0.0,0.183,0.817,48
+CNN Breaking News,"RT @CNN: During a rally in Mississippi, President Trump directly mocked Christine Blasey Ford’s testimony before the Senate Judiciary Commi…",Wed Oct 03 00:40:35 +0000 2018,-0.3182,0.0,0.113,0.887,49
+CNN Breaking News,RT @CNNMoney: Facebook doesn't think hackers accessed third-party sites https://t.co/23AYilaYqu https://t.co/42vOku6z3d,Tue Oct 02 23:40:56 +0000 2018,0.0,0.0,0.0,1.0,50
+CNN Breaking News,Envelope addressed to Trump contains substance believed to be ricin and appears connected to similar mail sent to P… https://t.co/9o6pfAQQIz,Tue Oct 02 23:39:59 +0000 2018,0.0,0.0,0.0,1.0,51
+CNN Breaking News,"Secretary of State Mike Pompeo will meet with North Korean dictator Kim Jong Un in Pyongyang on Sunday, the State D… https://t.co/NG95Ozq6ZI",Tue Oct 02 21:52:59 +0000 2018,0.0,0.0,0.0,1.0,52
+CNN Breaking News,"JCPenney names veteran retail leader Jill Soltau as its new CEO, making her one of only a handful of female CEOs le… https://t.co/X0UAZDZXQd",Tue Oct 02 20:58:49 +0000 2018,0.0,0.0,0.0,1.0,53
+CNN Breaking News,"Federal authorities charge four men with inciting rioting and assaulting counterprotesters at last year's ""Unite th… https://t.co/dnCJoTuV5a",Tue Oct 02 18:57:04 +0000 2018,-0.5106,0.0,0.171,0.829,54
+CNN Breaking News,"Indonesian officials raise the toll from Friday's earthquake and tsunami to 1,234 deaths after the bodies of 34 peo… https://t.co/zfwkr1vluL",Tue Oct 02 18:29:03 +0000 2018,0.0,0.0,0.0,1.0,55
+CNN Breaking News,"The toxic compound ricin has been detected in two envelopes delivered to the Pentagon's mail facility, a defense of… https://t.co/JkiliFMya2",Tue Oct 02 17:05:40 +0000 2018,0.128,0.077,0.0,0.923,56
+CNN Breaking News,"A fight that Brett Kavanaugh was accused of starting led to the arrest of Yale friend Chris Dudley, a police report… https://t.co/i7Duo6NODm",Tue Oct 02 15:53:19 +0000 2018,-0.4588,0.121,0.273,0.606,57
+CNN Breaking News,"The FBI is done interviewing Brett Kavanaugh's high school friend Mark Judge, a lawyer for Judge says. Follow live… https://t.co/6MNjjF8F4M",Tue Oct 02 15:11:44 +0000 2018,0.4939,0.151,0.0,0.849,58
+CNN Breaking News,"RT @CNNMoney: Markets open little changed. S&amp;P 500 and Nasdaq dip 0.1%. Tesla rises 2% after saying it delivered 83,500 vehicles in the thi…",Tue Oct 02 13:43:15 +0000 2018,0.0,0.0,0.0,1.0,59
+CNN Breaking News,"Tesla says the company delivered 83,500 vehicles during the third quarter, a strong performance that should calm in… https://t.co/PMNQ9ZaLdh",Tue Oct 02 13:27:06 +0000 2018,0.6808,0.259,0.0,0.741,60
+CNN Breaking News,A law change will allow heterosexual couples in England and Wales to enter into civil partnerships instead of marri… https://t.co/939V98BJWV,Tue Oct 02 13:00:48 +0000 2018,0.2263,0.095,0.0,0.905,61
+CNN Breaking News,"Amazon announces a $15 an hour minimum wage for US employees, a move benefiting more than 250,000 workers… https://t.co/nx6eci3lXq",Tue Oct 02 10:23:26 +0000 2018,0.1779,0.096,0.0,0.904,62
+CNN Breaking News,"The 2018 award celebrates groundbreaking laser inventions. It’s shared between three physicists, including the firs… https://t.co/hA3Xwl5vwJ",Tue Oct 02 10:10:00 +0000 2018,0.8625,0.425,0.0,0.575,63
+CNN Breaking News,"More than 1,200 people died in the earthquake and tsunami that struck Indonesia four days ago, officials now say https://t.co/YwtJhG8j1O",Tue Oct 02 08:27:15 +0000 2018,-0.6808,0.0,0.237,0.763,64
+CNN Breaking News,Microsoft co-founder Paul Allen says his non-Hodgkin's lymphoma has returned. Allen was treated for the disease in… https://t.co/wlZzr2neuw,Mon Oct 01 23:28:35 +0000 2018,0.0,0.0,0.0,1.0,65
+CNN Breaking News,A North Carolina man died from a bacterial infection after scraping his leg doing yard work related to Hurricane Fl… https://t.co/66MK88JLEO,Mon Oct 01 22:16:20 +0000 2018,-0.5574,0.0,0.167,0.833,66
+CNN Breaking News,A man and his 2-year-old son were identified as among the three people killed when a car exploded Saturday in Allen… https://t.co/n6ZyfxhFTV,Mon Oct 01 21:41:40 +0000 2018,-0.6705,0.0,0.191,0.809,67
+CNN Breaking News,Musician Cardi B turns herself in to NYPD and is charged with assault in connection with an incident at a New York… https://t.co/RFfZrSVcVI,Mon Oct 01 17:41:02 +0000 2018,-0.6808,0.0,0.228,0.772,68
+CNN Breaking News,A Chinese destroyer came as close as 45 feet to a US Navy ship operating near disputed islands in the South China S… https://t.co/SRatUbSsV2,Mon Oct 01 15:52:06 +0000 2018,-0.6597,0.0,0.213,0.787,69
+CNN Breaking News,Watch and follow live: President Trump talks about the deal to revamp NAFTA that's been struck after more than a ye… https://t.co/WxUUZ8Qloc,Mon Oct 01 15:14:51 +0000 2018,-0.25,0.0,0.091,0.909,70
+CNN Breaking News,"Officers fatally shot a patient at Orlando Regional Medical Center who claimed he had a gun but didn't, police chie… https://t.co/kianVqRAfO",Mon Oct 01 13:47:36 +0000 2018,-0.5106,0.0,0.202,0.798,71
+CNN Breaking News,"Veteran French singer and songwriter Charles Aznavour is dead at 94. Known for his hits ""She"" and ""Hier Encore,"" he… https://t.co/JXFvzhgfwy",Mon Oct 01 13:46:47 +0000 2018,-0.6486,0.0,0.177,0.823,72
+CNN Breaking News,"General Electric, mired in a deep slump, has ousted CEO John Flannery after barely a year on the job… https://t.co/XoxwEhv9iV",Mon Oct 01 11:28:54 +0000 2018,0.0,0.0,0.0,1.0,73
+CNN Breaking News,German federal prosecutors say they have detained six men who are suspected of having formed a far-right terrorist… https://t.co/VqfsNT7Dof,Mon Oct 01 10:55:42 +0000 2018,-0.5574,0.0,0.223,0.777,74
+CNN Breaking News,American James Allison and Japan's Tasuku Honjo have won the 2018 Nobel Prize in Medicine for a pioneering approach… https://t.co/6DT503ovk1,Mon Oct 01 10:07:59 +0000 2018,0.7906,0.292,0.0,0.708,75
+CNN Breaking News,Outside counsel tells Republican senators 'reasonable prosecutor' would not bring Ford case against Kavanaugh https://t.co/ydVAXRE3LP,Mon Oct 01 03:33:16 +0000 2018,0.0,0.0,0.0,1.0,76
+CNN Breaking News,"Canada signed on to an agreement that will preserve NAFTA trade pact, two US officials and a Canadian official say https://t.co/wiRuKF9Eo2",Mon Oct 01 02:39:41 +0000 2018,0.4939,0.144,0.0,0.856,77
+CNN Breaking News,"A Las Vegas woman sues soccer star Cristiano Ronaldo, alleging that he raped her in 2009 https://t.co/8hYiB4mVuR https://t.co/mVFBAEzRci",Mon Oct 01 01:59:38 +0000 2018,-0.6808,0.0,0.223,0.777,78
+CNN Breaking News,"California passes the nation's strictest net neutrality law, which prevents internet providers from blocking or slo… https://t.co/O589lqpTrK",Mon Oct 01 01:21:02 +0000 2018,-0.3182,0.069,0.138,0.794,79
+CNN Breaking News,"The FBI spoke today with Deborah Ramirez, who says Supreme Court nominee Brett Kavanaugh exposed himself to her, a… https://t.co/4lPMO2079c",Sun Sep 30 20:53:12 +0000 2018,0.5106,0.157,0.057,0.786,80
+CNN Breaking News,"The White House is coordinating with GOP senators to narrow the scope of the Kavanaugh investigation, sources say,… https://t.co/IaEQ3r30rP",Sun Sep 30 19:18:51 +0000 2018,0.0,0.0,0.0,1.0,81
+CNN Breaking News,"RT @CNNPolitics: Democratic Sen. Amy Klobuchar, a member of the Senate Judiciary Committee, says she was “really stunned by how (Brett Kava…",Sun Sep 30 16:18:53 +0000 2018,-0.1027,0.0,0.065,0.935,82
+CNN Breaking News,RT @CNNPolitics: White House counselor Kellyanne Conway say the FBI investigation into Brett Kavanaugh is “not meant to be a fishing expedi…,Sun Sep 30 16:18:23 +0000 2018,0.0,0.0,0.0,1.0,83
+CNN Breaking News,"The death toll from an earthquake and tsunami now exceeds 830 people,  Indonesian officials say.… https://t.co/3MIg47GArP",Sun Sep 30 07:50:21 +0000 2018,-0.5994,0.0,0.206,0.794,84
+CNN Breaking News,"Tesla CEO Elon Musk will resign as company chairman and pay $20 million in a settlement with the SEC, after it sued… https://t.co/GRecfKRfnO",Sat Sep 29 21:56:43 +0000 2018,-0.4215,0.0,0.16,0.84,85
+CNN Breaking News,"Two police officers were killed in a shootout in Brookhaven, Mississippi, responding to a call about shots fired, a… https://t.co/cJca3J3RwL",Sat Sep 29 17:04:14 +0000 2018,-0.8442,0.0,0.336,0.664,86
+CNN Breaking News,Police arrest a suspect in the shooting death of Louisiana State University basketball player Wayde Sims… https://t.co/Z16IamshpZ,Sat Sep 29 16:43:12 +0000 2018,-0.8176,0.0,0.395,0.605,87
+CNN Breaking News,A rare and powerful hurricane-like storm roars across Greece triggering flooding as it makes its way toward Turkey… https://t.co/cfVZSrm0xt,Sat Sep 29 16:34:25 +0000 2018,0.4215,0.141,0.0,0.859,88
+CNN Breaking News,Typhoon Trami unleashed heavy winds and rain on southern Japan as it slowly marched toward the nation's main island… https://t.co/NnGbeTpr2p,Sat Sep 29 14:09:25 +0000 2018,0.0,0.0,0.0,1.0,89
+CNN Breaking News,Rescuers scrambled to find survivors after a powerful earthquake hit the Indonesian island of Sulawesi and triggere… https://t.co/QGVicMQYJu,Sat Sep 29 08:31:30 +0000 2018,0.4215,0.149,0.0,0.851,90
+CNN Breaking News,At least 48 people are dead and  more than 350 injured after a series of earthquakes and a tsunami hit the Indonesi… https://t.co/eDNdUcgWA9,Sat Sep 29 05:02:58 +0000 2018,-0.8055,0.0,0.277,0.723,91
+CNN Breaking News,Federal judge rules that lawsuit by Democratic lawmakers against Trump over foreign payments to his business can pr… https://t.co/kH41Mk5Jul,Sat Sep 29 01:56:54 +0000 2018,-0.2263,0.0,0.095,0.905,92
+CNN Breaking News,"Marty Balin, whose tenor voice provided hits for the '60s psychedelic rock band Jefferson Airplane, dies at age 76… https://t.co/7Qfiguy0oP",Sat Sep 29 01:21:05 +0000 2018,0.0,0.0,0.0,1.0,93
+CNN Breaking News,RT @CNNPolitics: JUST IN: President Donald Trump has ordered the FBI to conduct a week-long investigation into Supreme Court nominee Brett…,Fri Sep 28 21:34:32 +0000 2018,0.5574,0.159,0.0,0.841,94
+CNN Breaking News,"Senate GOP agrees to a week for an FBI investigation into US Supreme Court nominee Brett Kavanaugh, delaying a conf… https://t.co/Sx1ddc4nRI",Fri Sep 28 20:16:44 +0000 2018,0.6597,0.241,0.0,0.759,95
+CNN Breaking News,"Six Palestinians died after being shot by Israeli soldiers along the fence that separates Gaza and Israel, Palestin… https://t.co/dPEkfs3x4Z",Fri Sep 28 19:43:36 +0000 2018,-0.5574,0.0,0.167,0.833,96
+CNN Breaking News,The House passes the final version of a legislative package that aims to combat the opioid epidemic by a vote of 39… https://t.co/3eSpgLEGNU,Fri Sep 28 19:29:46 +0000 2018,-0.34,0.0,0.107,0.893,97
+CNN Breaking News,Senate panel approves Brett Kavanaugh's Supreme Court nomination but full vote could be delayed to allow for FBI in… https://t.co/IEHMpibH1Z,Fri Sep 28 18:04:58 +0000 2018,0.4854,0.262,0.095,0.644,98
+CNN Breaking News,Facebook says an attack discovered earlier this week exposed information on nearly 50 million users… https://t.co/pAAQZDfGUz,Fri Sep 28 17:05:39 +0000 2018,-0.5267,0.0,0.239,0.761,99
+CNN Breaking News,"Democratic Sen. Joe Donnelly, a key vote for Supreme Court nominee Brett Kavanaugh's confirmation, says he will vot… https://t.co/JhWURmyOJs",Fri Sep 28 15:43:11 +0000 2018,0.5574,0.175,0.0,0.825,100
+Fox News,Josh Schwerin: “There are dozens of people who have contacted the @FBI and said they have credible information…The… https://t.co/Cdop5A43O6,Fri Oct 05 03:30:00 +0000 2018,0.0,0.0,0.0,1.0,1
+Fox News,President @realdonaldtrump arrives at Joint Base Andrews. https://t.co/ExWdumSkKB,Fri Oct 05 03:22:16 +0000 2018,0.0,0.0,0.0,1.0,2
+Fox News,Hundreds arrested as Kavanaugh protests continue all night @FoxNewsNight https://t.co/Ybry6Aycue https://t.co/v0vY2UE99p,Fri Oct 05 03:16:15 +0000 2018,-0.6124,0.0,0.357,0.643,3
+Fox News,.@Sen_JoeManchin on Kavanaugh’s FBI report @foxnewsnight https://t.co/Y8plh7Ovmx,Fri Oct 05 03:03:41 +0000 2018,0.0,0.0,0.0,1.0,4
+Fox News,"Lawyer for Clinton campaign and DNC gave FBI documents for Russia probe, sources say. https://t.co/3sqbW4snbT",Fri Oct 05 02:59:53 +0000 2018,0.0,0.0,0.0,1.0,5
+Fox News,Geese and ducks with darts through their necks photographed in Idaho park. https://t.co/WgEfO8Trxn,Fri Oct 05 02:44:42 +0000 2018,0.0,0.0,0.0,1.0,6
+Fox News,"No more signs of life in Indonesia hotel rubble, rescuers say. https://t.co/yHSYOdVJEj",Fri Oct 05 02:37:00 +0000 2018,-0.296,0.0,0.167,0.833,7
+Fox News,.@TuckerCarlson: The Dems' 'Full Assault on Justice System' Will Intensify in 2019. https://t.co/nxwN74X8Gv,Fri Oct 05 02:27:27 +0000 2018,-0.1027,0.187,0.209,0.604,8
+Fox News,Laurie Metcalf and John Lithgow tapped to play @HillaryClinton and @BillClinton on Broadway https://t.co/9Ga9MdBWHW,Fri Oct 05 02:21:03 +0000 2018,0.34,0.156,0.0,0.844,9
+Fox News,New White House counterterrorism strategy singles out 'radical Islamists' https://t.co/RMJPXeE8sQ,Fri Oct 05 02:16:53 +0000 2018,0.0,0.0,0.0,1.0,10
+Fox News,Facebook executive's Kavanaugh support triggers backlash for Zuckerberg. https://t.co/5cIqH5MC77,Fri Oct 05 02:07:19 +0000 2018,0.4019,0.252,0.0,0.748,11
+Fox News,Lockheed Martin's huge Moon lander would allow astronauts to stay on lunar surface for 2 weeks https://t.co/pHY45wQKp9,Fri Oct 05 01:59:00 +0000 2018,0.4939,0.231,0.0,0.769,12
+Fox News,Comedian @amyschumer raises her fist after she was reportedly arrested during a protest against the confirmation of… https://t.co/iVuCyETu2C,Fri Oct 05 01:53:00 +0000 2018,-0.3612,0.12,0.235,0.645,13
+Fox News,Kavanaugh's prep school friends say 'Devil's Triangle' was a drinking game https://t.co/Yq3OXL3HdX,Fri Oct 05 01:46:41 +0000 2018,0.4767,0.237,0.0,0.763,14
+Fox News,"John Fund: In Kavanaugh confirmation fight, will Dems be hit by a Brett boomerang in November? https://t.co/zuF1RxgYlV",Fri Oct 05 01:39:16 +0000 2018,-0.3818,0.0,0.148,0.852,15
+Fox News,MUST SEE: Two-Year-Old Girl Helps Dad Learn 'Pledge of Allegiance' for Citizenship Test https://t.co/ojXj5tPddg,Fri Oct 05 01:31:17 +0000 2018,0.3818,0.167,0.0,0.833,16
+Fox News,"Kavanaugh, in op-ed, decries 'vicious' attacks while saying he 'might have been too emotional' at hearing https://t.co/ihyOyvjFyu",Fri Oct 05 01:22:00 +0000 2018,-0.3182,0.082,0.149,0.769,17
+Fox News,OPINION: FBI investigation of Kavanaugh failed to question enough key people to get to the truth https://t.co/PaRw5Lpr98,Fri Oct 05 01:16:00 +0000 2018,-0.25,0.112,0.16,0.728,18
+Fox News,'It's a Bulls**t Investigation': NJ Sen. Menendez Blasts FBI's Kavanaugh Probe https://t.co/Tvm1WrVKcp,Fri Oct 05 01:08:55 +0000 2018,0.0,0.0,0.0,1.0,19
+Fox News,"Carrie Underwood, Brad Paisley host 2018 CMAs: 5 memorable moments from the country superstars https://t.co/ZH8o6ONmTp",Fri Oct 05 01:07:54 +0000 2018,0.0,0.0,0.0,1.0,20
+Fox News,Josh Schwerin: “There are dozens of people who have contacted the @FBI and said they have credible information…The… https://t.co/Cdop5A43O6,Fri Oct 05 03:30:00 +0000 2018,0.0,0.0,0.0,1.0,21
+Fox News,President @realdonaldtrump arrives at Joint Base Andrews. https://t.co/ExWdumSkKB,Fri Oct 05 03:22:16 +0000 2018,0.0,0.0,0.0,1.0,22
+Fox News,Hundreds arrested as Kavanaugh protests continue all night @FoxNewsNight https://t.co/Ybry6Aycue https://t.co/v0vY2UE99p,Fri Oct 05 03:16:15 +0000 2018,-0.6124,0.0,0.357,0.643,23
+Fox News,.@Sen_JoeManchin on Kavanaugh’s FBI report @foxnewsnight https://t.co/Y8plh7Ovmx,Fri Oct 05 03:03:41 +0000 2018,0.0,0.0,0.0,1.0,24
+Fox News,"Lawyer for Clinton campaign and DNC gave FBI documents for Russia probe, sources say. https://t.co/3sqbW4snbT",Fri Oct 05 02:59:53 +0000 2018,0.0,0.0,0.0,1.0,25
+Fox News,Geese and ducks with darts through their necks photographed in Idaho park. https://t.co/WgEfO8Trxn,Fri Oct 05 02:44:42 +0000 2018,0.0,0.0,0.0,1.0,26
+Fox News,"No more signs of life in Indonesia hotel rubble, rescuers say. https://t.co/yHSYOdVJEj",Fri Oct 05 02:37:00 +0000 2018,-0.296,0.0,0.167,0.833,27
+Fox News,.@TuckerCarlson: The Dems' 'Full Assault on Justice System' Will Intensify in 2019. https://t.co/nxwN74X8Gv,Fri Oct 05 02:27:27 +0000 2018,-0.1027,0.187,0.209,0.604,28
+Fox News,Laurie Metcalf and John Lithgow tapped to play @HillaryClinton and @BillClinton on Broadway https://t.co/9Ga9MdBWHW,Fri Oct 05 02:21:03 +0000 2018,0.34,0.156,0.0,0.844,29
+Fox News,New White House counterterrorism strategy singles out 'radical Islamists' https://t.co/RMJPXeE8sQ,Fri Oct 05 02:16:53 +0000 2018,0.0,0.0,0.0,1.0,30
+Fox News,Facebook executive's Kavanaugh support triggers backlash for Zuckerberg. https://t.co/5cIqH5MC77,Fri Oct 05 02:07:19 +0000 2018,0.4019,0.252,0.0,0.748,31
+Fox News,Lockheed Martin's huge Moon lander would allow astronauts to stay on lunar surface for 2 weeks https://t.co/pHY45wQKp9,Fri Oct 05 01:59:00 +0000 2018,0.4939,0.231,0.0,0.769,32
+Fox News,Comedian @amyschumer raises her fist after she was reportedly arrested during a protest against the confirmation of… https://t.co/iVuCyETu2C,Fri Oct 05 01:53:00 +0000 2018,-0.3612,0.12,0.235,0.645,33
+Fox News,Kavanaugh's prep school friends say 'Devil's Triangle' was a drinking game https://t.co/Yq3OXL3HdX,Fri Oct 05 01:46:41 +0000 2018,0.4767,0.237,0.0,0.763,34
+Fox News,"John Fund: In Kavanaugh confirmation fight, will Dems be hit by a Brett boomerang in November? https://t.co/zuF1RxgYlV",Fri Oct 05 01:39:16 +0000 2018,-0.3818,0.0,0.148,0.852,35
+Fox News,MUST SEE: Two-Year-Old Girl Helps Dad Learn 'Pledge of Allegiance' for Citizenship Test https://t.co/ojXj5tPddg,Fri Oct 05 01:31:17 +0000 2018,0.3818,0.167,0.0,0.833,36
+Fox News,"Kavanaugh, in op-ed, decries 'vicious' attacks while saying he 'might have been too emotional' at hearing https://t.co/ihyOyvjFyu",Fri Oct 05 01:22:00 +0000 2018,-0.3182,0.082,0.149,0.769,37
+Fox News,OPINION: FBI investigation of Kavanaugh failed to question enough key people to get to the truth https://t.co/PaRw5Lpr98,Fri Oct 05 01:16:00 +0000 2018,-0.25,0.112,0.16,0.728,38
+Fox News,'It's a Bulls**t Investigation': NJ Sen. Menendez Blasts FBI's Kavanaugh Probe https://t.co/Tvm1WrVKcp,Fri Oct 05 01:08:55 +0000 2018,0.0,0.0,0.0,1.0,39
+Fox News,"Carrie Underwood, Brad Paisley host 2018 CMAs: 5 memorable moments from the country superstars https://t.co/ZH8o6ONmTp",Fri Oct 05 01:07:54 +0000 2018,0.0,0.0,0.0,1.0,40
+Fox News,"Louisiana man claims 'ghost' planted meth at his home, falsely reports stabbing, sheriff says. https://t.co/mNbnLxZxSo",Fri Oct 05 00:56:35 +0000 2018,0.0,0.0,0.0,1.0,41
+Fox News,"In an op-ed for @wsj, Judge Brett Kavanaugh addressed his testimony to the Senate Judiciary Committee last week, sa… https://t.co/rjZ49HAsIf",Fri Oct 05 00:43:00 +0000 2018,0.0,0.0,0.0,1.0,42
+Fox News,"“I don’t think we’re interested"" in an endorsement from @BarackObama, Rep. @BetoORourke said after being snubbed in… https://t.co/F6Z0WmUTpI",Fri Oct 05 00:35:26 +0000 2018,0.25,0.217,0.13,0.652,43
+Fox News,".@TuckerCarlson: ""Win or lose, Kavanaugh's nomination will be voted on."" #Tucker https://t.co/QGAyWddjyn",Fri Oct 05 00:27:00 +0000 2018,0.2732,0.23,0.164,0.606,44
+Fox News,Whale watchers witnessed a spectacular sight Wednesday of a humpback whale breaching with a glowing rainbow behind… https://t.co/XjhUmxiGC2,Fri Oct 05 00:21:20 +0000 2018,0.0,0.0,0.0,1.0,45
+Fox News,"As Kavanaugh vote looms, GOP Sen. @SteveDaines says he's going to daughter's wedding. https://t.co/aDbZpfsqNd",Fri Oct 05 00:17:01 +0000 2018,-0.1531,0.0,0.11,0.89,46
+Fox News,"Kavanaugh fate hangs in balance, with 3 swing-vote senators 'trying to get to yes,' source says. https://t.co/qFdXUW8Og0",Fri Oct 05 00:08:08 +0000 2018,0.0,0.0,0.0,1.0,47
+Fox News,".@POTUS: ""The Democrats have been trying to destroy Judge Brett Kavanaugh since the very first second he was announ… https://t.co/6Jnzmy5qJb",Fri Oct 05 00:02:31 +0000 2018,-0.5423,0.0,0.156,0.844,48
+Fox News,"BREAKING: Kavanaugh pens op-ed, decries 'vicious' attacks while saying he 'might have been too emotional' at hearin… https://t.co/QZeWjJdWtB",Fri Oct 05 00:01:10 +0000 2018,-0.3182,0.078,0.141,0.78,49
+Fox News,".@POTUS: ""The only reason to vote Democrat is because you're tired of winning."" https://t.co/LyueZxBslo https://t.co/yPBFzoazNu",Thu Oct 04 23:51:21 +0000 2018,-0.4404,0.0,0.172,0.828,50
+Fox News,".@POTUS on trade: ""NAFTA has been one of the great disasters of all time. And now we have a great and fair deal.""… https://t.co/wLD1CN8YT7",Thu Oct 04 23:50:28 +0000 2018,0.7845,0.317,0.109,0.574,51
+Fox News,".@POTUS: ""We're just five weeks away from one of the most important congressional elections in our lifetime. You se… https://t.co/zTVGJUOnXl",Thu Oct 04 23:46:10 +0000 2018,0.2716,0.099,0.0,0.901,52
+Fox News,".@POTUS: ""In less than two years of Republican leadership, America has achieved the biggest comeback in our history… https://t.co/pTb8ntOCBJ",Thu Oct 04 23:42:21 +0000 2018,0.0,0.0,0.0,1.0,53
+Fox News,".@POTUS in Minnesota: ""This is supposed to be a Democrat state. I don't think so."" https://t.co/LyueZxBslo https://t.co/XHWWDzmLce",Thu Oct 04 23:38:08 +0000 2018,0.0,0.0,0.0,1.0,54
+Fox News,HAPPENING NOW: @POTUS holds rally in Minnesota ahead of the midterms. https://t.co/LyueZxBslo https://t.co/HpPcqanj9L,Thu Oct 04 23:37:06 +0000 2018,0.0,0.0,0.0,1.0,55
+Fox News,".@POTUS holds a ""Make America Great Again"" rally in Rochester, Minnesota. https://t.co/JKBHEla2e1",Thu Oct 04 23:33:01 +0000 2018,0.6249,0.291,0.0,0.709,56
+Fox News,.@realDonaldTrump holds Minnesota rally as key Kavanaugh vote approaches https://t.co/gLPwQfnUv3,Thu Oct 04 23:32:39 +0000 2018,0.0,0.0,0.0,1.0,57
+Fox News,".@RajShah45 on Judge Kavanaugh: ""He's looking forward to the Senate taking action tomorrow on the cloture motion an… https://t.co/NbQsRUr9yA",Thu Oct 04 23:28:27 +0000 2018,0.0,0.0,0.0,1.0,58
+Fox News,".@RajShah45 on Kavanaugh vote: ""We're cautiously optimistic. I'd say we remain confident at this hour."" #TheStory… https://t.co/eR75BS5YHo",Thu Oct 04 23:14:52 +0000 2018,0.6705,0.268,0.0,0.732,59
+Fox News,.@ChuckGrassley is calling out the Democrats and the media over how they've handled the controversy surrounding Jud… https://t.co/RIECcl4UJK,Thu Oct 04 23:10:48 +0000 2018,0.0,0.0,0.0,1.0,60
+Fox News,.@CalThomas: Trump promised to put American interests first – he wasn’t kidding https://t.co/xu9138dQ4n,Thu Oct 04 23:04:00 +0000 2018,0.5994,0.396,0.0,0.604,61
+Fox News,Retired Justice John Paul Stevens calls Kavanaugh's temperament disqualifying: 'Senators should pay attention to th… https://t.co/7sjdL06XCV,Thu Oct 04 23:00:55 +0000 2018,0.4588,0.181,0.074,0.745,62
+Fox News,"RT @FoxBusiness: Verizon's severance offer goes to about 44,000 employees  https://t.co/2XzOfGDNjr",Thu Oct 04 22:59:39 +0000 2018,0.0,0.0,0.0,1.0,63
+Fox News,"Florida man arrested for threats to kill Democrats, 'weak' Republicans, over Kavanaugh nomination, sheriff says. https://t.co/sztAEGZuhq",Thu Oct 04 22:49:52 +0000 2018,-0.891,0.0,0.449,0.551,64
+Fox News,"Utah toddler put $1,000 through shredder, parents say. https://t.co/CrBF0RUX58",Thu Oct 04 22:38:59 +0000 2018,0.0,0.0,0.0,1.0,65
+Fox News,.@SenatorHeitkamp says she's voting 'no' on Kavanaugh. https://t.co/9x1F8lrBcU https://t.co/7W05qHAyAa,Thu Oct 04 22:30:32 +0000 2018,0.0,0.0,0.0,1.0,66
+Fox News,.@FLOTUS continued her tour through Africa today with a stop in Malawi. #SpecialReport https://t.co/J9XIl8sVcR https://t.co/gRuaXkqD2x,Thu Oct 04 22:27:59 +0000 2018,-0.296,0.0,0.145,0.855,67
+Fox News,"RT @FoxBusiness: AT THE CLOSE: The Dow Jones Industrial Average was down by triple digits Thursday, and the other two major U.S. stock benc…",Thu Oct 04 22:23:28 +0000 2018,0.0,0.0,0.0,1.0,68
+Fox News,Suspect behind the ricin scare is in custody. #SpecialReport https://t.co/VIodJYg7zW https://t.co/dBFHxsVfrI,Thu Oct 04 22:22:03 +0000 2018,-0.6597,0.0,0.375,0.625,69
+Fox News,"JUST IN: Lawyer for Clinton campaign and DNC gave FBI documents for Russia probe, sources say. https://t.co/3sqbW4aLNj",Thu Oct 04 22:16:01 +0000 2018,0.0,0.0,0.0,1.0,70
+Fox News,.@emrata and @amyschumer detained at Kavanaugh protests in D.C. https://t.co/riU4MJMu4L,Thu Oct 04 22:10:00 +0000 2018,-0.5574,0.0,0.365,0.635,71
+Fox News,.@maryannemarsh: FBI investigation of Kavanaugh failed to question enough key people to get to the truth. (via… https://t.co/XITbJn40xk,Thu Oct 04 22:05:00 +0000 2018,-0.25,0.106,0.153,0.741,72
+Fox News,Cancer patient’s final act was to find home for beloved dog https://t.co/a55zSRvTSs,Thu Oct 04 21:58:25 +0000 2018,-0.2732,0.186,0.249,0.565,73
+Fox News,WATCH: Arrests Made as Amy Schumer Joins Kavanaugh Mass Protests in Hart Senate Building https://t.co/vH5DDYgrga,Thu Oct 04 21:53:59 +0000 2018,-0.5859,0.0,0.27,0.73,74
+Fox News,".@POTUS departs Minneapolis for Rochester, Minnesota, where he will hold a ""Make America Great Again"" rally tonight. https://t.co/3sdpvKsSAP",Thu Oct 04 21:51:25 +0000 2018,0.6249,0.204,0.0,0.796,75
+Fox News,".@JohnCornyn on Kavanaugh hearing: ""This could have been handled much better and I think in a way there would have… https://t.co/yiFr1NConm",Thu Oct 04 21:50:07 +0000 2018,0.4404,0.139,0.0,0.861,76
+Fox News,".@JudgeJeanine on Kavanaugh's impact on the midterms: ""Let's assume that Kavanaugh gets on the Supreme Court. Will… https://t.co/Nsvwb14Xxl",Thu Oct 04 21:46:15 +0000 2018,0.5574,0.175,0.0,0.825,77
+Fox News,"Michelle Carter, woman convicted in suicide texting case, committed no crime, lawyer argues https://t.co/Ej1RkJO9MN",Thu Oct 04 21:34:06 +0000 2018,-0.8934,0.088,0.536,0.377,78
+Fox News,"Florida man threatens he's 'about ready to kill' neighbor, himself over walkway dispute during city council meeting https://t.co/0fLiuDIiOw",Thu Oct 04 21:33:35 +0000 2018,-0.8176,0.094,0.377,0.528,79
+Fox News,Venomous false widow spider infestation forces London schools to shut https://t.co/388OlAm7r8,Thu Oct 04 21:30:00 +0000 2018,0.0,0.0,0.0,1.0,80
+Fox News,6.5 million pounds of beef recalled over salmonella concerns https://t.co/h9eyNPPJJl,Thu Oct 04 21:20:08 +0000 2018,0.0,0.0,0.0,1.0,81
+Fox News,"Minnesota city sees influx of ‘drunk’ birds flying into cars, windows, officials say https://t.co/X3twXUM2mp",Thu Oct 04 21:04:00 +0000 2018,0.0,0.0,0.0,1.0,82
+Fox News,"On Thursday, Senator @LindseyGrahamSC commented on the @FBI's report on sexual misconduct allegations against Judge… https://t.co/XUwNSIbk26",Thu Oct 04 20:58:00 +0000 2018,0.0,0.0,0.0,1.0,83
+Fox News,.@VP Pence accuses Beijing of meddling in US elections: ‘China wants a different American president’ https://t.co/5H0j4AsTnW,Thu Oct 04 20:54:00 +0000 2018,-0.34,0.0,0.146,0.854,84
+Fox News,"Pressure mounts on 4 swing senators to decide Kavanaugh's fate, on heels of FBI report. (via @brookefoxnews) https://t.co/JvTqTTnltv",Thu Oct 04 20:47:51 +0000 2018,-0.296,0.0,0.121,0.879,85
+Fox News,"Woman tells New Jersey police she doesn't know who she is, has been walking for a year. https://t.co/ldRHA3xeBs",Thu Oct 04 20:40:47 +0000 2018,0.0,0.0,0.0,1.0,86
+Fox News,"Uber, Lyft offer free rides to polls for midterm elections. https://t.co/mjrPbUeDwZ",Thu Oct 04 20:34:00 +0000 2018,0.552,0.263,0.0,0.737,87
+Fox News,".@SenatorRounds on the Kavanaugh FBI report: ""It was very informative as far as I was concerned."" #Cavuto https://t.co/80JBU79qDq",Thu Oct 04 20:28:05 +0000 2018,0.0,0.0,0.0,1.0,88
+Fox News,Massive anti-Kavanaugh protests continue inside a Senate office building. #Cavuto https://t.co/uAWUzYVQFY,Thu Oct 04 20:24:53 +0000 2018,-0.2263,0.0,0.174,0.826,89
+Fox News,"Grassley blasts Dems, media over Kavanaugh treatment, says confirmation should come Saturday. https://t.co/M5mxWinQGm",Thu Oct 04 20:19:03 +0000 2018,0.0,0.0,0.0,1.0,90
+Fox News,.@ShepNewsTeam is live with the 'Fox News Update' on Facebook Watch: https://t.co/584lSOl7Bz https://t.co/ur6Eo8uGEQ,Thu Oct 04 20:03:09 +0000 2018,0.0,0.0,0.0,1.0,91
+Fox News,.@POTUS Arrives in Minnesota https://t.co/wZGzQFxbLx,Thu Oct 04 19:30:41 +0000 2018,0.0,0.0,0.0,1.0,92
+Fox News,JUST IN: Accused doxxer of GOP senators allegedly threatened to publish their children’s health information https://t.co/et8j74qUQG,Thu Oct 04 19:24:00 +0000 2018,-0.6369,0.0,0.271,0.729,93
+Fox News,A.B. Stoddard: “I think we’re going to see a Justice Kavanaugh on Saturday.” https://t.co/lCOiSryoSY,Thu Oct 04 19:19:39 +0000 2018,0.5267,0.221,0.0,0.779,94
+Fox News,Senator @ChuckGrassley urges Senate to confirm Judge Kavanaugh https://t.co/pT6Z5xCH2i,Thu Oct 04 19:11:18 +0000 2018,0.0,0.0,0.0,1.0,95
+Fox News,"Senator @ChuckGrassley: ""Let the @FBI do what the FBI is hired to do and keep political interference out of it."" https://t.co/lm8Yqgf8iI",Thu Oct 04 19:06:51 +0000 2018,0.0,0.0,0.0,1.0,96
+Fox News,"Senator @JohnCornyn: ""This is a search and destroy mission. This is not a search for the truth."" https://t.co/dOATe4czAn",Thu Oct 04 19:03:19 +0000 2018,-0.5423,0.0,0.189,0.811,97
+Fox News,".@SenMikeLee: ""Allegations of sexual misconduct are serious, of sexual assault are of a most serious nature, and al… https://t.co/tMG3KVixFW",Thu Oct 04 19:00:25 +0000 2018,-0.6597,0.0,0.299,0.701,98
+Fox News,"Senator @JohnCornyn: ""More is at stake than just this nomination and the Supreme Court. The Senate itself is on tri… https://t.co/B389ikX2K1",Thu Oct 04 18:55:31 +0000 2018,0.5574,0.153,0.0,0.847,99
+Fox News,"Senator @OrrinHatch: ""I'm disappointed in my Democratic colleagues for what they're doing. There's no excuse for it… https://t.co/UBgoW5fb56",Thu Oct 04 18:51:56 +0000 2018,-0.6124,0.06,0.245,0.694,100
+The New York Times,Judge Brett Kavanaugh’s op-ed in The Wall Street Journal appeared to be aimed at a handful of lawmakers who remaine… https://t.co/wsA0ikocCF,Fri Oct 05 03:32:01 +0000 2018,0.0,0.0,0.0,1.0,1
+The New York Times,"RT @NYTObits: When a deadly blizzard hit Nebraska in 1888, a teacher used quick thinking to get her students to safety. Read Minnie Freeman…",Fri Oct 05 03:17:04 +0000 2018,0.4215,0.118,0.0,0.882,2
+The New York Times,"In an unusual rebuke from a former member of the Supreme Court, Justice John Paul Stevens said that Judge Brett Kav… https://t.co/dg2RyXPdH5",Fri Oct 05 03:02:05 +0000 2018,0.7906,0.269,0.0,0.731,3
+The New York Times,RT @jakesilverstein: Rollout of @NYTmag Culture Issue continues today with this beautiful profile of @BarryJenkins by @angelaflournoy (w/ p…,Fri Oct 05 02:51:03 +0000 2018,0.6833,0.204,0.0,0.796,4
+The New York Times,"10 women are running for New York’s State Senate against another female candidate, the highest number of two-woman… https://t.co/swlyIMETem",Fri Oct 05 02:47:04 +0000 2018,0.0772,0.067,0.0,0.933,5
+The New York Times,"Senator Orrin Hatch, shielded by aides, waved a protester off, telling her and others that he would talk to them “w… https://t.co/JCbZ8RVl0L",Fri Oct 05 02:30:06 +0000 2018,0.0,0.0,0.0,1.0,6
+The New York Times,"RT @nytopinion: There is clear, substantial evidence that Brett Kavanaugh has not been honest throughout his confirmation process. But cons…",Fri Oct 05 02:17:02 +0000 2018,0.0897,0.145,0.084,0.771,7
+The New York Times,What's one of the fastest growing sources of greenhouse gas emissions? A new report says plastics. https://t.co/p92EDjjX2w,Fri Oct 05 02:02:01 +0000 2018,0.1779,0.102,0.0,0.898,8
+The New York Times,Elon Musk took to Twitter less than a week after settling the Securities and Exchange Commission's lawsuit against… https://t.co/kzBve0527a,Fri Oct 05 01:47:02 +0000 2018,0.0772,0.109,0.095,0.796,9
+The New York Times,RT @jwpetersNYT: “This is a dry run for the impeachment.” The right tries to keep the base on edge over Kavanaugh. But does it last if he g…,Fri Oct 05 01:33:03 +0000 2018,0.0,0.0,0.0,1.0,10
+The New York Times,"Osaka, Japan, officially severed a sister-city partnership with San Francisco in protest of a “comfort women” monum… https://t.co/u1B7GYe3ec",Fri Oct 05 01:24:02 +0000 2018,-0.5423,0.0,0.243,0.757,11
+The New York Times,"RT @shamblanderson: I hung out for 2 days on the set of my favorite TV show, @nbcthegoodplace, and left liking it even more. I wrote about…",Fri Oct 05 01:11:06 +0000 2018,0.6908,0.213,0.0,0.787,12
+The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/aTEwvgoVVx,Fri Oct 05 01:02:05 +0000 2018,0.0,0.0,0.0,1.0,13
+The New York Times,"RT @hkbeech: When the earthquake came to Palu, Indonesia, entire neighborhoods disappeared under a bubbling sludge. https://t.co/POrBkxJecM",Fri Oct 05 00:51:05 +0000 2018,-0.2263,0.0,0.112,0.888,14
+The New York Times,Here's a list of early voting dates for the states that allow it [corrected typo] https://t.co/8MImT5BwcA,Fri Oct 05 00:48:47 +0000 2018,0.2263,0.119,0.0,0.881,15
+The New York Times,New York City officials said that they had joined state regulators in examining whether President Trump and his fam… https://t.co/epk9F9w9J8,Fri Oct 05 00:32:03 +0000 2018,0.0,0.0,0.0,1.0,16
+The New York Times,RT @PamelaPaulNYT: Everything about this cover brings me joy. Just wait ‘til you read ⁦@StephenKing⁩’s review. Just wait ‘til you read Tana…,Fri Oct 05 00:24:05 +0000 2018,0.5859,0.153,0.0,0.847,17
+The New York Times,"A New Jersey Transit train leaving Manhattan derailed entering a tunnel under the Hudson River on Thursday evening,… https://t.co/gtGkuWrOPn",Fri Oct 05 00:17:04 +0000 2018,-0.34,0.0,0.13,0.87,18
+The New York Times,It was the political equivalent of throwing an interception on the opening play of the game. A look at efforts to r… https://t.co/AuPjeKUxUl,Fri Oct 05 00:02:05 +0000 2018,0.34,0.103,0.0,0.897,19
+The New York Times,"The FBI investigation into Kavanaugh has ended. Here’s who was questioned, and who was not. https://t.co/6joKrA4TnW",Thu Oct 04 23:47:05 +0000 2018,-0.1027,0.0,0.085,0.915,20
+The New York Times,Judge Brett Kavanaugh’s op-ed in The Wall Street Journal appeared to be aimed at a handful of lawmakers who remaine… https://t.co/wsA0ikocCF,Fri Oct 05 03:32:01 +0000 2018,0.0,0.0,0.0,1.0,21
+The New York Times,"RT @NYTObits: When a deadly blizzard hit Nebraska in 1888, a teacher used quick thinking to get her students to safety. Read Minnie Freeman…",Fri Oct 05 03:17:04 +0000 2018,0.4215,0.118,0.0,0.882,22
+The New York Times,"In an unusual rebuke from a former member of the Supreme Court, Justice John Paul Stevens said that Judge Brett Kav… https://t.co/dg2RyXPdH5",Fri Oct 05 03:02:05 +0000 2018,0.7906,0.269,0.0,0.731,23
+The New York Times,RT @jakesilverstein: Rollout of @NYTmag Culture Issue continues today with this beautiful profile of @BarryJenkins by @angelaflournoy (w/ p…,Fri Oct 05 02:51:03 +0000 2018,0.6833,0.204,0.0,0.796,24
+The New York Times,"10 women are running for New York’s State Senate against another female candidate, the highest number of two-woman… https://t.co/swlyIMETem",Fri Oct 05 02:47:04 +0000 2018,0.0772,0.067,0.0,0.933,25
+The New York Times,"Senator Orrin Hatch, shielded by aides, waved a protester off, telling her and others that he would talk to them “w… https://t.co/JCbZ8RVl0L",Fri Oct 05 02:30:06 +0000 2018,0.0,0.0,0.0,1.0,26
+The New York Times,"RT @nytopinion: There is clear, substantial evidence that Brett Kavanaugh has not been honest throughout his confirmation process. But cons…",Fri Oct 05 02:17:02 +0000 2018,0.0897,0.145,0.084,0.771,27
+The New York Times,What's one of the fastest growing sources of greenhouse gas emissions? A new report says plastics. https://t.co/p92EDjjX2w,Fri Oct 05 02:02:01 +0000 2018,0.1779,0.102,0.0,0.898,28
+The New York Times,Elon Musk took to Twitter less than a week after settling the Securities and Exchange Commission's lawsuit against… https://t.co/kzBve0527a,Fri Oct 05 01:47:02 +0000 2018,0.0772,0.109,0.095,0.796,29
+The New York Times,RT @jwpetersNYT: “This is a dry run for the impeachment.” The right tries to keep the base on edge over Kavanaugh. But does it last if he g…,Fri Oct 05 01:33:03 +0000 2018,0.0,0.0,0.0,1.0,30
+The New York Times,"Osaka, Japan, officially severed a sister-city partnership with San Francisco in protest of a “comfort women” monum… https://t.co/u1B7GYe3ec",Fri Oct 05 01:24:02 +0000 2018,-0.5423,0.0,0.243,0.757,31
+The New York Times,"RT @shamblanderson: I hung out for 2 days on the set of my favorite TV show, @nbcthegoodplace, and left liking it even more. I wrote about…",Fri Oct 05 01:11:06 +0000 2018,0.6908,0.213,0.0,0.787,32
+The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/aTEwvgoVVx,Fri Oct 05 01:02:05 +0000 2018,0.0,0.0,0.0,1.0,33
+The New York Times,"RT @hkbeech: When the earthquake came to Palu, Indonesia, entire neighborhoods disappeared under a bubbling sludge. https://t.co/POrBkxJecM",Fri Oct 05 00:51:05 +0000 2018,-0.2263,0.0,0.112,0.888,34
+The New York Times,Here's a list of early voting dates for the states that allow it [corrected typo] https://t.co/8MImT5BwcA,Fri Oct 05 00:48:47 +0000 2018,0.2263,0.119,0.0,0.881,35
+The New York Times,New York City officials said that they had joined state regulators in examining whether President Trump and his fam… https://t.co/epk9F9w9J8,Fri Oct 05 00:32:03 +0000 2018,0.0,0.0,0.0,1.0,36
+The New York Times,RT @PamelaPaulNYT: Everything about this cover brings me joy. Just wait ‘til you read ⁦@StephenKing⁩’s review. Just wait ‘til you read Tana…,Fri Oct 05 00:24:05 +0000 2018,0.5859,0.153,0.0,0.847,37
+The New York Times,"A New Jersey Transit train leaving Manhattan derailed entering a tunnel under the Hudson River on Thursday evening,… https://t.co/gtGkuWrOPn",Fri Oct 05 00:17:04 +0000 2018,-0.34,0.0,0.13,0.87,38
+The New York Times,It was the political equivalent of throwing an interception on the opening play of the game. A look at efforts to r… https://t.co/AuPjeKUxUl,Fri Oct 05 00:02:05 +0000 2018,0.34,0.103,0.0,0.897,39
+The New York Times,"The FBI investigation into Kavanaugh has ended. Here’s who was questioned, and who was not. https://t.co/6joKrA4TnW",Thu Oct 04 23:47:05 +0000 2018,-0.1027,0.0,0.085,0.915,40
+The New York Times,RT @lauriegnyt: Americans used to vote at much higher rates - as high as 80% even in midterms. What changed? A big-picture look at our aili…,Thu Oct 04 23:17:04 +0000 2018,0.0,0.0,0.0,1.0,41
+The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/6hstvvVAwq,Thu Oct 04 23:06:06 +0000 2018,0.0,0.0,0.0,1.0,42
+The New York Times,It’s been called the most debauched outdoor party in Australia. But behind the drunken antics at the Deni Ute Muste… https://t.co/YKU6HFRhfp,Thu Oct 04 22:51:03 +0000 2018,0.2457,0.09,0.0,0.91,43
+The New York Times,"""When you invest in a black woman, she brings her house, her block, her church and her story,"" said Glynda C. Carr,… https://t.co/FMofIlt11i",Thu Oct 04 22:37:04 +0000 2018,-0.4404,0.0,0.121,0.879,44
+The New York Times,"This Greek-style broiled shrimp dish is ready in just 10 minutes, making it the perfect weeknight recipe https://t.co/dIkLqEQzM9",Thu Oct 04 22:33:04 +0000 2018,0.7351,0.279,0.0,0.721,45
+The New York Times,"At age 11, Lorena Barnum Sabbs tried to integrate a theater. She was arrested and locked in the Leesburg Stockade.… https://t.co/OJqVcLRIsc",Thu Oct 04 22:20:51 +0000 2018,-0.4767,0.0,0.14,0.86,46
+The New York Times,"Kayla and Kiana Blaine in Tallahassee, Florida, are fueled by a protectiveness and fear about the fate of black men… https://t.co/pimtyL5RDb",Thu Oct 04 22:15:40 +0000 2018,-0.4939,0.0,0.144,0.856,47
+The New York Times,"Kewyata Dice works as a nursing assistant in Americus, Georgia. She sat out the 2014 and 2016 elections, but has pr… https://t.co/xDTl9e7Jbx",Thu Oct 04 22:10:34 +0000 2018,0.0,0.0,0.0,1.0,48
+The New York Times,"""We're trying to stir up the spirits of the folks who’ve been turned off this damn process."" — LaTosha Brown, in Gr… https://t.co/zWuALjm8yM",Thu Oct 04 22:05:33 +0000 2018,-0.481,0.0,0.13,0.87,49
+The New York Times,"The women are mobilizing in conservative states and districts, hoping to pull off upsets like Doug Jones’s Senate v… https://t.co/v77msLedx4",Thu Oct 04 22:01:08 +0000 2018,0.4215,0.214,0.101,0.685,50
+The New York Times,"RT @maggieNYT: MAGA, Minnesota edition https://t.co/0BOuCY2FoL",Thu Oct 04 21:55:37 +0000 2018,0.0,0.0,0.0,1.0,51
+The New York Times,"RT @NYTArchives: The singer Janis Joplin died on this day in 1970. The Times' obituary for her said she ""sang with more than her voice. Her…",Thu Oct 04 21:53:02 +0000 2018,-0.5574,0.0,0.126,0.874,52
+The New York Times,"“I want to apologize,” the Facebook executive Joel Kaplan wrote last Friday in a note to staff. “I recognize this m… https://t.co/JVd8V3Elkh",Thu Oct 04 21:41:00 +0000 2018,0.0772,0.061,0.0,0.939,53
+The New York Times,A Facebook executive's presence at last week's Kavanaugh hearing set off turmoil at the company. Its effort to stem… https://t.co/Rajk8Q8KWi,Thu Oct 04 21:31:04 +0000 2018,-0.3612,0.0,0.122,0.878,54
+The New York Times,"RT @MikeIsaac: For the past week, Facebook employees have been in open internal revolt over a FB VP appearing in support of Judge Brett Kav…",Thu Oct 04 21:21:52 +0000 2018,0.4019,0.105,0.0,0.895,55
+The New York Times,"Dave Anderson, a sports columnist for The New York Times for more than 3 decades and the recipient of a Pulitzer Pr… https://t.co/sQjsuTmNM2",Thu Oct 04 21:15:03 +0000 2018,0.0,0.0,0.0,1.0,56
+The New York Times,RT @JohnBranchNYT: So sorry to learn of the passing of longtime @NYTSports columnist Dave Anderson. He truly might be the only person in th…,Thu Oct 04 21:13:05 +0000 2018,0.2866,0.109,0.065,0.826,57
+The New York Times,"Rev. Dr. William J. Barber II, a pastor and 2018 MacArthur ‘genius’ grant winner, is resurrecting the Poor People’s… https://t.co/jIblrVKzQ9",Thu Oct 04 21:07:56 +0000 2018,0.4939,0.248,0.122,0.63,58
+The New York Times,RT @gabrieldance: one thing that was particularly interesting about Fred and Donald’s relationship: Fred always let Donald take credit for…,Thu Oct 04 20:50:04 +0000 2018,0.6801,0.237,0.0,0.763,59
+The New York Times,"“I’m not directing them. They are just giving me this thing. And sometimes you can look at an actor and see, Oh, th… https://t.co/qtsBoKmsRy",Thu Oct 04 20:45:07 +0000 2018,0.34,0.094,0.0,0.906,60
+The New York Times,RT @jwherrman: I’d argue we’ve lost track of what kind of company Apple is. And maybe Apple has too https://t.co/uYv65BCaxL,Thu Oct 04 20:30:06 +0000 2018,-0.5719,0.0,0.207,0.793,61
+The New York Times,"Kennedy Airport has long been a mess, with its disjointed terminals and countless delays. Now, officials have a $13… https://t.co/gAAy2RIr7O",Thu Oct 04 20:15:03 +0000 2018,-0.5859,0.0,0.231,0.769,62
+The New York Times,"47% of voters who approve of President Trump say they feel like strangers in their own country.
+44% of voters who d… https://t.co/pffsXyBwHT",Thu Oct 04 20:00:12 +0000 2018,0.3612,0.102,0.0,0.898,63
+The New York Times,Looking to stay on top of the news about Brett Kavanaugh and the FBI investigation? Start here. https://t.co/t0v3Twgazu,Thu Oct 04 19:50:03 +0000 2018,0.2023,0.096,0.0,0.904,64
+The New York Times,"Yer a museum exhibit, Harry
+https://t.co/c500QvytUJ",Thu Oct 04 19:35:06 +0000 2018,0.0,0.0,0.0,1.0,65
+The New York Times,"RT @Emily_Baum: Today in ""possibly awesome, possibly biological warfare"": The Pentagon is working to engineer a system in which billions of…",Thu Oct 04 19:30:03 +0000 2018,0.6249,0.177,0.0,0.823,66
+The New York Times,"In Opinion,
+
+Maria Gallagher, one of the protestors who confronted Senator Jeff Flake in the elevator, writes, “Rec… https://t.co/H1jiH2MvJg",Thu Oct 04 19:15:04 +0000 2018,-0.2023,0.0,0.091,0.909,67
+The New York Times,"On Thursday, closing arguments were made in the case of the shooting of Laquan McDonald, a black teenager who was s… https://t.co/lxM6K3audn",Thu Oct 04 19:00:11 +0000 2018,-0.4019,0.0,0.119,0.881,68
+The New York Times,"The Brooklyn-Queens Expressway, a detested but vital highway in New York, is falling apart and a 1.5-mile stretch o… https://t.co/2lOm7xkG3K",Thu Oct 04 18:50:03 +0000 2018,0.2263,0.135,0.092,0.773,69
+The New York Times,RT @julieturkewitz: Mia Love is the daughter of Haitian immigrants. She was the first black Republican woman elected to Congress. She has s…,Thu Oct 04 18:40:10 +0000 2018,0.4588,0.153,0.08,0.766,70
+The New York Times,RT @karenyourish: Many who could have shed light on the allegations against Judge Kavanaugh were not questioned by the F.B.I. w/@TroyEricG…,Thu Oct 04 18:34:06 +0000 2018,0.0762,0.061,0.0,0.939,71
+The New York Times,"The Neanderthals probably infected modern humans with viruses, perhaps even an ancient form of HIV. But our extinct… https://t.co/2XvK2XTfco",Thu Oct 04 18:25:06 +0000 2018,-0.2732,0.0,0.104,0.896,72
+The New York Times,Lindsey Graham has been one of the biggest proponents of President Trump’s crackdown on China. But behind the scene… https://t.co/kAXPQkULEY,Thu Oct 04 18:10:07 +0000 2018,0.0,0.0,0.0,1.0,73
+The New York Times,"RT @halophoenix: Need some juice, but no time to charge your phone? @WhitsonGordon explains the fastest way to charge your phone, today in…",Thu Oct 04 18:00:12 +0000 2018,-0.4215,0.0,0.113,0.887,74
+The New York Times,Lawmakers reviewed the FBI’s findings from an inquiry into Judge Brett Kavanaugh’s background. Here’s what senators… https://t.co/6QZO552Uhs,Thu Oct 04 17:45:07 +0000 2018,0.0,0.0,0.0,1.0,75
+The New York Times,"RT @Nate_Cohn: Minnesota 2, probably final. Craig (D) 51, Lewis (R, inc) 39
+This seat was already thought to lean Democratic, but there's n…",Thu Oct 04 17:35:03 +0000 2018,0.0,0.0,0.0,1.0,76
+The New York Times,Broken friendships. Lost teeth. There’s no one right way to grow up. So here are stories from people making mistake… https://t.co/1bsI9lL2Lk,Thu Oct 04 17:25:05 +0000 2018,-0.6124,0.096,0.279,0.625,77
+The New York Times,"He was miserable working at a law firm. So he decided to pursue comedy. A writer for the TV show ""Superstore"" share… https://t.co/qeQj06W40i",Thu Oct 04 17:10:06 +0000 2018,-0.1779,0.101,0.13,0.769,78
+The New York Times,"RT @MichaelPaulson: Hillary Clinton is coming to Broadway. As a character in a play. Here comes ""Hillary and Clinton,"" by Lucas Hnath, star…",Thu Oct 04 17:00:12 +0000 2018,0.34,0.107,0.0,0.893,79
+The New York Times,"36 Hours in Nashville: Flourishing art and food scenes, and musical venues that celebrate new voices are just a few… https://t.co/MFLRYUn0x8",Thu Oct 04 16:50:07 +0000 2018,0.5719,0.163,0.0,0.837,80
+The New York Times,A new way to keep up with the 2018 campaign: Sign up to get messages from a Times political reporter. He’ll even ta… https://t.co/PKoBMv4jEC,Thu Oct 04 16:45:05 +0000 2018,0.0,0.0,0.0,1.0,81
+The New York Times,See the full list of the MacArthur “Genius” Grant winners here:  https://t.co/AmAzQON1fA,Thu Oct 04 16:32:50 +0000 2018,0.6808,0.359,0.0,0.641,82
+The New York Times,"Meet the new MacArthur “genius” grant winners. The 25 recipients — scientists, artists, a lawyer and a journalist —… https://t.co/O4SoUkxZEL",Thu Oct 04 16:30:03 +0000 2018,0.6808,0.272,0.0,0.728,83
+The New York Times,Breaking News: 2 undecided GOP senators suggested they were satisfied with the FBI report on Brett Kavanaugh. Democ… https://t.co/VIBbVjUdDJ,Thu Oct 04 16:17:38 +0000 2018,0.2263,0.135,0.092,0.773,84
+The New York Times,"NBC gave Michael Schur total freedom. So the TV impresario made ""The Good Place,"" a sitcom that's also a profound w… https://t.co/aPANEleDon",Thu Oct 04 16:02:13 +0000 2018,0.7964,0.283,0.0,0.717,85
+The New York Times,"Barnes &amp; Noble announced that is considering putting itself up for sale, again. Shareholders are delighted but find… https://t.co/V90Zo8cfq7",Thu Oct 04 15:55:03 +0000 2018,0.4854,0.196,0.0,0.804,86
+The New York Times,"RT @panphil: “It’s difficult to explain what Q means exactly,” says one teahouse manager. But ⁦@amyyqin⁩ explains it in all its delicious g…",Thu Oct 04 15:25:05 +0000 2018,0.6486,0.188,0.065,0.746,87
+The New York Times,"As senators read FBI interview transcripts, the White House is confident that the new background check on Judge Bre… https://t.co/BZBegmkDQD",Thu Oct 04 15:10:07 +0000 2018,0.4939,0.144,0.0,0.856,88
+The New York Times,RT @nytgraphics: A map of where China’s retaliatory tariffs threaten American jobs looks a lot like one that shows where voters backed Pres…,Thu Oct 04 15:00:13 +0000 2018,-0.0,0.149,0.107,0.744,89
+The New York Times,"By the Book: If you want a book to better understand America, Andre Dubus III, the author of “Gone So Long,” says,… https://t.co/m196cMr18r",Thu Oct 04 14:45:08 +0000 2018,0.4939,0.174,0.0,0.826,90
+The New York Times,"RT @ScottShaneNYT: 3/ And according to the estimable @DarrenLinvill of Clemson University, it was then retweeted by 26 other Russian accoun…",Thu Oct 04 14:34:27 +0000 2018,0.0,0.0,0.0,1.0,91
+The New York Times,"RT @ScottShaneNYT: 2/ Turns out that on December 19, 2016, the day the Electoral College confirmed Trump's victory, one of the Internet Res…",Thu Oct 04 14:34:10 +0000 2018,0.0,0.0,0.0,1.0,92
+The New York Times,RT @ScottShaneNYT: 1/ Here's a remarkable update to the reconstruction of the Russian 2016 election attack I wrote with @MarkMazzettiNYT tw…,Thu Oct 04 14:33:50 +0000 2018,0.128,0.152,0.131,0.717,93
+The New York Times,"Breaking News: Russian officers launched cyberattacks on inquiries into Russian doping, an ex-spy’s poisoning and t… https://t.co/SlJLclQyXO",Thu Oct 04 14:31:06 +0000 2018,-0.5106,0.074,0.187,0.739,94
+The New York Times,"In a video, Emmanuel Macron was seen as lecturing an out-of-work gardener to look harder for a job. ""If I crossed t… https://t.co/AENktC7iSM",Thu Oct 04 14:30:13 +0000 2018,0.0,0.0,0.0,1.0,95
+The New York Times,"RT @MarkLandler: Tensions with China are about to get worse: Mike Pence to deliver a blistering assault on Chinese aggression, predatory lo…",Thu Oct 04 14:15:07 +0000 2018,-0.8957,0.0,0.41,0.59,96
+The New York Times,"RT @mikiebarb: On today’s Daily: the meaning and scope of the FBI investigation into Kavanaugh, which Senators will review this morning — a…",Thu Oct 04 14:00:10 +0000 2018,0.0,0.0,0.0,1.0,97
+The New York Times,Jimmy Kimmel's show paused multiple times as an alarm blared and faux presidential alerts flashed across the screen… https://t.co/Ioxsw7BWje,Thu Oct 04 13:44:02 +0000 2018,-0.34,0.0,0.118,0.882,98
+The New York Times,"""Too often, when 'alternative medicine' is used instead of standard medical treatments, it delays the use of remedi… https://t.co/t8xD9NeSzW",Thu Oct 04 13:30:16 +0000 2018,0.0,0.0,0.0,1.0,99
+The New York Times,"The most famous faces of the ’90s returned to the runways, bike shorts are here to stay — and the beach was every d… https://t.co/TwGULOxKmp",Thu Oct 04 13:22:05 +0000 2018,0.0,0.0,0.0,1.0,100
